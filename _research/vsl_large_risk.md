@@ -1,7 +1,7 @@
 ---
 title: "Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19"
-collection: publications
-permalink: /publication/vsl_large_risk
+collection: research
+permalink: /research/vsl_large_risk
 excerpt: ''
 date: 2009-10-01
 venue: 'Working Paper'
