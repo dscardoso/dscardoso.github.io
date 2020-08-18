@@ -19,7 +19,7 @@ Optimal carbon tax in oligopolies: An application to commercial aviation
 Water Affordability in the United States
 :   _Diego S. Cardoso and [Casey J. Wichman](http://caseyjwichman.com/)_. (Preparing resubmission)
 
-Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19
+[Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19](https://dscardoso.github.io/research/vsl_large_risk)
 :   _Diego S. Cardoso and [Ricardo Dahis](http://www.ricardodahis.com)_. (Under review) 
 
 An econometric analysis of the Brazilian merger policy 
