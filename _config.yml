@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Diego S. Cardoso"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Diego S. Cardoso"
 description              : &description "PhD candidate, Cornell University"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Diego S. Cardoso"
-  avatar           : "profile.png"
+  avatar           : "portrait.jpg"
   bio              : "PhD candidate in Applied Economics and Management, Cornell University"
   location         : "Ithaca, NY, USA"
   employer         :
