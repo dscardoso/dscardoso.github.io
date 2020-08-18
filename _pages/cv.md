@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Abbreviated CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,29 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available in PDF here.
+My full CV is available in PDF [here].
 
 
 ## Education
-
-* Ph.D. Applied Economics and Management, Cornell University (since 2018)
+* Ph.D. Applied Economics and Management, Cornell University (expected 2021)
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
 * B.S. Computer Engineering (with distinction), University of Campinas , Brazil (2010)
 
 ## Academic Experience
+* Research Assistant
+** Cornell University, Dyson School
+*** To Ivan Rudik (2018-2020)
+** Iowa State University, Dept. of Economics
+*** At CARD, Center for Agricultural and Rural Development (2017-2018)
+*** To Ivan Rudik (2016-2017)
+*** At the Water & Climate Change Project (2016)
+** University of Manitoba, Dept. of Agricultural Economics
+*** To Fabio Mattos (Fall 2012)
+* Research Intern
+** Resources for the Future (Summer 2017)
+** Embrapa, Brazilian Agricultural Research Corporation, Brazil (2009)
 
-* Research Assistant to Ivan Rudik, Cornell University (since 2018), and at Iowa State University (2016-2017)
-* Research Assistant, Center for Agricultural and Rural Development (CARD), Iowa State University (2017-2018)
-* Teaching Assistant, Dept. of Economics, Iowa State University (2014-2018)
-* Research Intern, Resources for the Future (Summer 2017)
-* Research Assistant, Water & Climate Change Project, Iowa State University (2016)
-* Research Assistant to Fabio Mattos, Dept. of Agricultural Economics, University of Manitoba, Canada (2012-2013)
-* Teaching Assistant, Dept. of Economics, Federal University of São Carlos (2012)
-* Research Intern, Embrapa - Brazilian Agricultural Research Corporation, Brazil (2009)
-* Undergraduate researcher supervised by Cecilia Baranauskas, Institute of Computing, University of Campinas, Brazil (2006-2008)
+* Instructor, Iowa State University
+*** Energy, Environmental, and Resource Economics (Spring 2018)
+* Teaching Assistant
+** Cornell University, Dyson School
+*** Environmental and Resource Economics for Masters, with Ivan Rudik (Fall 2020)
+*** Behavioral Corporate Finance, with Vicky Bogan (Fall 2019)
+** Iowa State University, Dept. of Economics
+*** Intro Microeconomics and Intro Macroeconomics, with Terry Alexander, Brent Kreider, and Otavio Bartalotti (2014-2015)
+*** Applied Economic Optimization, with Sunanda Roy (Fall 2015)
+*** Intermediate Microeconomics, with Peter Orazem (Spring 2017)
+** Federal University of São Carlos, Dept. of Economics
+*** Introduction to Microeonomics (Spring 2012)
 
 ## Honors & Awards
-
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
 * Brown Graduate Fellowship, Iowa State University (2016)
 * Gamma Sigma Delta inducted, Iowa State University (2016)
