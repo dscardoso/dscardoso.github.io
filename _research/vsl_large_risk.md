@@ -5,7 +5,9 @@ permalink: /research/vsl_large_risk
 ---
 _Diego S. Cardoso and Ricardo Dahis_. 
 
-[SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529){: .btn .btn--info; text-decoration:none;}  First version: May 2020. Latest version: Aug 2020. 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529" text-decoration="none" class="btn btn--info;">SSRN Working Paper</a>
+
+[SSRN Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529){text-decoration:none; : .btn .btn--info}  First version: May 2020. Latest version: Aug 2020. 
 
 <center>
   <img src="/images/vsl_large_risk_thumb.png" alt="VSL with large risk change"  width="400" class="align-right;"/>
