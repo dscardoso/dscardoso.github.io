@@ -42,6 +42,6 @@ _Diego S. Cardoso_
 ### An agent-based platform for the study of watersheds as coupled natural and human systems
 _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([pre-print](http://dscardoso.github.io/files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
 
-## A Digital Notebook in school laptops: concept and tool development (In Portuguese)
-_Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([code](https://code.google.com/archive/p/cadernodigital))
+### A Digital Notebook in school laptops: concept and tool development 
+(In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([code](https://code.google.com/archive/p/cadernodigital))
 
