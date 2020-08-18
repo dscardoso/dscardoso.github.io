@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Diego S. Cardoso"
 title_separator          : "-"
 name                     : &name "Diego S. Cardoso"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD candidate, Cornell University"
+url                      : https://dscardoso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dscardoso/dscardoso.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Diego S. Cardoso"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Applied Economics and Management, Dyson School, Cornell University"
+  bio              : "PhD candidate in Applied Economics and Management, Cornell University"
   location         : "Ithaca, NY, USA"
   employer         :
   pubmed           : 
