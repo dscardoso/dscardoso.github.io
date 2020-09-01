@@ -43,7 +43,7 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
     * Applied Economic Optimization, with Sunanda Roy (Fall 2015)
     * Intermediate Microeconomics, with Peter Orazem (Spring 2017)
   * Federal University of São Carlos, Dept. of Economics
-    * Introduction to Microeonomics (Spring 2012)
+    * Introduction to Microeconomics (Spring 2012)
 
 ## Research
 [Click here to see my research papers](/about).
