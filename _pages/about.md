@@ -10,22 +10,24 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental Economics and Industrial Organization. I am on the 2020-2021 job market.
 
 
 ## Working Papers
 
 Optimal carbon tax in oligopolies: An application to commercial aviation
-:   _Diego S. Cardoso_. (Job Market Paper) ([read more](https://www.diegoscardoso.com/research/optimal_carbon_tax_in_oligopolies))
+:   _Diego S. Cardoso_. (Job Market Paper) ([read more](research/optimal_carbon_tax_in_oligopolies))
 
 Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission) ([read more](https://www.diegoscardoso.com/research/water_affordability_US))
+:   _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission) ([read more](research/water_affordability_US))
 
 Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19
-:   _Diego S. Cardoso and Ricardo Dahis_. (Under review) ([read more](https://www.diegoscardoso.com/research/vsl_large_risk))
+:   _Diego S. Cardoso and Ricardo Dahis_. (Under review) ([read more](research/vsl_large_risk))
 
 An econometric analysis of the Brazilian merger policy
-:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted) ([read more](https://www.diegoscardoso.com/research/brazil_merger_policy))
+:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted) ([read more](research/brazil_merger_policy))
 
 ## Work in progress
 
@@ -42,7 +44,7 @@ Climate policy under uncertain post-tipping warming
 ## Publications
 
 An agent-based platform for the study of watersheds as coupled natural and human systems
-:   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([pre-print](http://dscardoso.github.io/files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
+:   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
 A Digital Notebook in school laptops: concept and tool development
 :   (In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([code](https://code.google.com/archive/p/cadernodigital))

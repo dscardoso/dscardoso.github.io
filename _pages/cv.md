@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV is available in PDF [here].
+My CV is available in PDF [here](files/DiegoCardoso_CV.pdf).
 
 
 ## Education
@@ -36,7 +36,7 @@ My full CV is available in PDF [here].
   * Energy, Environmental, and Resource Economics (Spring 2018)
 * Teaching Assistant
   * Cornell University, Dyson School
-    * Environmental and Resource Economics for Masters, with Ivan Rudik (Fall 2020)
+    * Environmental and Resource Economics (Masters level), with Ivan Rudik (Fall 2020)
     * Behavioral Corporate Finance, with Vicky Bogan (Fall 2019)
   * Iowa State University, Dept. of Economics
     * Intro Microeconomics and Intro Macroeconomics, with Terry Alexander, Brent Kreider, and Otavio Bartalotti (2014-2015)
@@ -44,6 +44,9 @@ My full CV is available in PDF [here].
     * Intermediate Microeconomics, with Peter Orazem (Spring 2017)
   * Federal University of São Carlos, Dept. of Economics
     * Introduction to Microeonomics (Spring 2012)
+
+## Research
+[Click here to see my research papers.](/about).
 
 ## Honors & Awards
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
