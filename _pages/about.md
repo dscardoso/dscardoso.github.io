@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental Economics and Industrial Organization. More specifically, I am interested in the topics of environmental policy in imperfect markets and the economics of water and climate change.
+Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental Economics and Industrial Organization. I am on the 2020-2021 job market.
 
 
 ## Working Papers
@@ -19,10 +19,10 @@ Optimal carbon tax in oligopolies: An application to commercial aviation
 :   _Diego S. Cardoso_. (Job Market Paper)
 
 Water Affordability in the United States
-:   _Diego S. Cardoso and [Casey J. Wichman](http://caseyjwichman.com/)_. (Preparing resubmission)
+:   _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission)
 
 [Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19](https://dscardoso.github.io/research/vsl_large_risk)
-:   _Diego S. Cardoso and [Ricardo Dahis](http://www.ricardodahis.com)_. (Under review) 
+:   _Diego S. Cardoso and Ricardo Dahis_. (Under review) 
 
 An econometric analysis of the Brazilian merger policy
 :   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted)
