@@ -19,13 +19,13 @@ Optimal carbon tax in oligopolies: An application to commercial aviation
 :   _Diego S. Cardoso_. (Job Market Paper) ([read more](research/optimal_carbon_tax_in_oligopolies))
 
 Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission) ([read more](https://www.diegoscardoso.com/research/water_affordability_US))
+:   _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission) ([read more](research/water_affordability_US))
 
 Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19
-:   _Diego S. Cardoso and Ricardo Dahis_. (Under review) ([read more](https://www.diegoscardoso.com/research/vsl_large_risk))
+:   _Diego S. Cardoso and Ricardo Dahis_. (Under review) ([read more](research/vsl_large_risk))
 
 An econometric analysis of the Brazilian merger policy
-:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted) ([read more](https://www.diegoscardoso.com/research/brazil_merger_policy))
+:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted) ([read more](research/brazil_merger_policy))
 
 ## Work in progress
 
