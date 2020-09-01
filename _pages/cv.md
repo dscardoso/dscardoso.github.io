@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available in PDF [here](files/DiegoCardoso_CV.pdf).
+My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardoso_CV.pdf).
 
 
 ## Education
@@ -46,7 +46,7 @@ My CV is available in PDF [here](files/DiegoCardoso_CV.pdf).
     * Introduction to Microeonomics (Spring 2012)
 
 ## Research
-[Click here to see my research papers.](/about).
+[Click here to see my research papers](/about).
 
 ## Honors & Awards
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
