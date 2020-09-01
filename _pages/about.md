@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental Economics and Industrial Organization. I am on the 2020-2021 job market.
+Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental and Resource Economics and Industrial Organization. I am on the 2020-2021 job market.
 
 
 ## Working Papers
