@@ -25,16 +25,16 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
 * Research Assistant
   * Cornell University, Dyson School
     * To Ivan Rudik (2018-2020)
-  * Iowa State University, Dept. of Economics
+  * Iowa State University, Department of Economics
     * At CARD, Center for Agricultural and Rural Development (2017-2018)
     * To Ivan Rudik (2016-2017)
     * At the Water & Climate Change Project (2016)
 * Research Intern
-  * Resources for the Future (Summer 2017)
+  * Resources For the Future (Summer 2017)
   * Embrapa, Brazilian Agricultural Research Corporation, Brazil (2009)
   
 * Visiting Researcher
-  * University of Manitoba (Canada), Dept. of Agricultural Economics (Fall 2012)
+  * University of Manitoba (Canada), Department of Agricultural Economics (Fall 2012)
 
 ## Teaching Experience
 * Instructor, Iowa State University
@@ -43,11 +43,11 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
   * Cornell University, Dyson School
     * Environmental and Resource Economics (Masters level), with Ivan Rudik (Fall 2020)
     * Behavioral Corporate Finance, with Vicky Bogan (Fall 2019)
-  * Iowa State University, Dept. of Economics
+  * Iowa State University, Department of Economics
     * Intro Microeconomics and Intro Macroeconomics, with Terry Alexander, Brent Kreider, and Otavio Bartalotti (2014-2015)
     * Applied Economic Optimization, with Sunanda Roy (Fall 2015)
     * Intermediate Microeconomics, with Peter Orazem (Spring 2017)
-  * Federal University of São Carlos, Dept. of Economics
+  * Federal University of São Carlos, Department of Economics
     * Introduction to Microeconomics (Spring 2012)
     
 ## Honors & Awards
@@ -64,10 +64,10 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
 
 ## Additional Training
 * Teaching training:
-  * At Cornell: International TA Program (26h, 2018)
-  * At Iowa State: CIRTL Associate Level Certificate (2018), Team-Based Learning (8h, 2018), Make It Stick (4h, 2017), Project LEA/RN (14h, 2016)
-* Graduate College Emerging Leaders Academy for leadership and diversity, Iowa State U (2016-2017)
-* Sustainable Climate Risk Management Summer School, Penn State U (2016)
+  * At Cornell University: International TA Program (26h, 2018)
+  * At Iowa State University: CIRTL Associate Level Certificate (2018), Team-Based Learning (8h, 2018), Make It Stick (4h, 2017), Project LEA/RN (14h, 2016)
+* Graduate College Emerging Leaders Academy for leadership and diversity, Iowa State University (2016-2017)
+* Sustainable Climate Risk Management Summer School, Penn State University (2016)
 * ESTIMATE workshop, Michigan State University (2016)
 
 ## Other Professional Experience
