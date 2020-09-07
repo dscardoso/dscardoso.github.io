@@ -29,10 +29,10 @@ Value of a Statistical Life under Large Mortality Risk Change: Theory and an App
 An econometric analysis of the Brazilian merger policy
 :   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Resubmitted) ([read more](research/brazil_merger_policy))
 
-## Work in progress
-
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, , Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, , Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_ (Preparing submission)
+
+## Work in progress
 
 Fuel cost pass-through in commercial aviation
 :   _Diego S. Cardoso_
