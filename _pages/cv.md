@@ -18,7 +18,10 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
 * B.S. Computer Engineering (with distinction), University of Campinas , Brazil (2010)
 
-## Academic Experience
+## Research
+[Click here to see my research papers](/about).
+
+## Research Experience
 * Research Assistant
   * Cornell University, Dyson School
     * To Ivan Rudik (2018-2020)
@@ -26,12 +29,14 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
     * At CARD, Center for Agricultural and Rural Development (2017-2018)
     * To Ivan Rudik (2016-2017)
     * At the Water & Climate Change Project (2016)
-  * University of Manitoba, Dept. of Agricultural Economics
-    * To Fabio Mattos (Fall 2012)
 * Research Intern
   * Resources for the Future (Summer 2017)
   * Embrapa, Brazilian Agricultural Research Corporation, Brazil (2009)
+  
+* Visiting Researcher
+  * University of Manitoba (Canada), Dept. of Agricultural Economics (Fall 2012)
 
+## Teaching Experience
 * Instructor, Iowa State University
   * Energy, Environmental, and Resource Economics (Spring 2018)
 * Teaching Assistant
@@ -44,10 +49,7 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
     * Intermediate Microeconomics, with Peter Orazem (Spring 2017)
   * Federal University of São Carlos, Dept. of Economics
     * Introduction to Microeconomics (Spring 2012)
-
-## Research
-[Click here to see my research papers](/about).
-
+    
 ## Honors & Awards
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
 * Brown Graduate Fellowship, Iowa State University (2016)
@@ -60,6 +62,18 @@ My CV is available in PDF [here](https://www.diegoscardoso.com/files/DiegoCardos
 * ESCALA Exchange Program Scholarship, Asociación de Universidades Grupo Montevideo (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
+## Additional Training
+* Teaching training:
+  * At Cornell: International TA Program (26h, 2018)
+  * At Iowa State: CIRTL Associate Level Certificate (2018), Team-Based Learning (8h, 2018), Make It Stick (4h, 2017), Project LEA/RN (14h, 2016)
+* Graduate College Emerging Leaders Academy for leadership and diversity, Iowa State U (2016-2017)
+* Sustainable Climate Risk Management Summer School, Penn State U (2016)
+* ESTIMATE workshop, Michigan State University (2016)
+
 ## Other Professional Experience
 * Data Scientist, Verisoft Group, Brazil (2013-2014)
 * Software Engineer, Verid Consulting, Brazil (2010-2012)
+
+## Additional Information
+* Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
+* Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
