@@ -35,10 +35,8 @@ Reduced river discharge under climate change impairs electricity generation and 
 ## Work in progress
 
 Fuel cost pass-through in commercial aviation
-:   _Diego S. Cardoso_
 
 Climate policy under uncertain post-tipping warming
-:   _Diego S. Cardoso_
 
 
 ## Publications
