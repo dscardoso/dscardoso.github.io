@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.io/blob/master/files/DiegoCardoso_CV.pdf).
+My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf).
 
 
 ## Education
