@@ -1,5 +1,5 @@
 ---
-title: "Optimal carbon tax in oligopolies: An application to commercial aviation"
+title: "Optimal carbon taxation under oligopoly: An application to commercial aviation"
 collection: research
 permalink: /research/optimal_carbon_tax_in_oligopolies
 ---
