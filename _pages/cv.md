@@ -20,9 +20,8 @@ redirect_from:
 
 ## Fields of Interest
 
-* *Primary:* Environmental and Resource Economics
-
-* *Secondary:* Industrial Organization, Energy, Transportation, Computational Economics
+* _Primary_: Environmental and Resource Economics
+* _Secondary_: Industrial Organization, Energy, Transportation, Computational Economics
 
 ## Research
 [Click here to see my research papers](/about).
@@ -84,7 +83,7 @@ redirect_from:
 * Refereeing:  
   * Water Resources and Economics
   * Brazilian Society for Rural Economics, Management, and Sociology
-* Organizations (all at Iowa State U): 
+* Organizations (all at Iowa State University): 
   * Graduate and Professional Student Senate (senator and  & member of the Grants and Awards Committee)
   * Economics Graduate Student Association (president)
   * Academic Writing Peer Review Group (organizer) 
