@@ -20,7 +20,8 @@ See it in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master
 
 ## Fields of Interest
 
-Primary: Environmental and Resource Economics 
+Primary: Environmental and Resource Economics
+
 Secondary: Industrial Organization, Energy, Transportation, Computational Economics
 
 ## Research
