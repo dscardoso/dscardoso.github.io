@@ -18,6 +18,11 @@ My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.i
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
 * B.S. Computer Engineering (with distinction), University of Campinas , Brazil (2010)
 
+## Fields of Interest
+
+Primary: Environmental and Resource Economics 
+Secondary: Industrial Organization, Energy, Transportation, Computational Economics
+
 ## Research
 [Click here to see my research papers](/about).
 
@@ -34,7 +39,7 @@ My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.i
   * Embrapa, Brazilian Agricultural Research Corporation, Brazil (2009)
   
 * Visiting Researcher
-  * University of Manitoba (Canada), Department of Agricultural Economics (Fall 2012)
+  * University of Manitoba (Canada), Department of Agricultural Economics (Fall 2012 -- Winter 2013)
 
 ## Teaching Experience
 * Instructor, Iowa State University
@@ -59,7 +64,7 @@ My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.i
 * Emerging Leaders of the Americas Scholarship, Canadian Bureau for International Education (2012)
 * Master's Scholarship, Coordination for the Improvement of Higher Level Personnel, Brazil (2011-2012)
 * Honorable Mention, XVII Latin America Undergraduate Research Conference, Argentina (2009)
-* ESCALA Exchange Program Scholarship, Asociación de Universidades Grupo Montevideo (2008)
+* ESCALA Exchange Scholarship, visiting Universidad Nacional de Córdoba, Argentina (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
 ## Additional Training
@@ -73,6 +78,15 @@ My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.i
 ## Other Professional Experience
 * Data Scientist, Verisoft Group, Brazil (2013-2014)
 * Software Engineer, Verid Consulting, Brazil (2010-2012)
+
+## Service
+* Refereeing:  
+  * Water Resources and Economics
+  * Brazilian Society for Rural Economics, Management, and Sociology
+* Organizations (all at Iowa State U): 
+  * Graduate and Professional Student Senate (senator and  & member of the Grants and Awards Committee)
+  * Economics Graduate Student Association (president)
+  * Academic Writing Peer Review Group (organizer) 
 
 ## Additional Information
 * Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
