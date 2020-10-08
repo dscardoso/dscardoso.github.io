@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Abbreviated CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf).
+See it in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf).
 
 
 ## Education
