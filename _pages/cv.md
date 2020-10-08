@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See it in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf).
+[Version in PDF](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf).
 
 
 ## Education
@@ -20,9 +20,9 @@ See it in PDF [here](https://github.com/dscardoso/dscardoso.github.io/raw/master
 
 ## Fields of Interest
 
-Primary: Environmental and Resource Economics
+* *Primary:* Environmental and Resource Economics
 
-Secondary: Industrial Organization, Energy, Transportation, Computational Economics
+* *Secondary:* Industrial Organization, Energy, Transportation, Computational Economics
 
 ## Research
 [Click here to see my research papers](/about).
