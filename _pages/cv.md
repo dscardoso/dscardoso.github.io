@@ -67,6 +67,13 @@ redirect_from:
 * ESCALA Exchange Scholarship, visiting Universidad Nacional de Córdoba, Argentina (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
+## Presentations and invited talks (including scheduled)
+* 2021: AERE at the Eastern Economic Association Conference \\
+* 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru) \\
+* 2016: Federal University of São Carlos (Brazil) \\
+* 2013: Southeastern Economists Meeting (Brazil) \\
+* 2009: South American Undergraduate Research Conference (Argentina); National Agro-Informatics Conference (Brazil)
+
 ## Additional Training
 * Teaching training:
   * At Cornell University: International TA Program (26h, 2018)
