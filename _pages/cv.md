@@ -82,10 +82,6 @@ redirect_from:
 * Sustainable Climate Risk Management Summer School, Penn State University (2016)
 * ESTIMATE workshop, Michigan State University (2016)
 
-## Other Professional Experience
-* Data Scientist, Verisoft Group, Brazil (2013-2014)
-* Software Engineer, Verid Consulting, Brazil (2010-2012)
-
 ## Service
 * Refereeing:  
   * Water Resources and Economics
@@ -95,6 +91,12 @@ redirect_from:
   * Economics Graduate Student Association (president)
   * Academic Writing Peer Review Group (organizer) 
 
+## Other Professional Experience
+* Data Scientist, Verisoft Group, Brazil (2013-2014)
+* Software Engineer, Verid Consulting, Brazil (2010-2012)
+
 ## Additional Information
-* Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
+
+* Professional associations: American Economic Association (AEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
 * Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
+* Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
