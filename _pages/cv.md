@@ -97,6 +97,6 @@ redirect_from:
 
 ## Additional Information
 
-* Professional associations: American Economic Association (AEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
+* Professional associations: American Economic Association (AEA), European Economic Association (EEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
 * Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
 * Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
