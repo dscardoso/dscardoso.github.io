@@ -21,7 +21,7 @@ redirect_from:
 ## Fields of Interest
 
 * _Primary_: Environmental and Resource Economics
-* _Secondary_: Industrial Organization, Energy, Transportation, Computational Economics
+* _Secondary_: Industrial Organization, Public Economics, Energy, Transportation
 
 ## Research
 [Click here to see my research papers](/about).
