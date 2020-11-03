@@ -3,7 +3,7 @@ title: "Value of a Statistical Life under Large Mortality Risk Change: Theory an
 collection: research
 permalink: /research/vsl_large_risk
 ---
-_Diego S. Cardoso and Ricardo Dahis_.
+_Diego S. Cardoso and Ricardo Dahis_. (R&R)
 
 First version: May 2020. Latest version: Aug 2020.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529" class="btn btn--info" style="text-decoration:none">SSRN Working Paper</a>
 

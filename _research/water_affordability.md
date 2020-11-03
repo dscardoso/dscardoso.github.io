@@ -3,7 +3,7 @@ title: "Water affordability in the United States"
 collection: research
 permalink: /research/water_affordability_US
 ---
-_Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission)
+_Diego S. Cardoso and Casey J. Wichman_. (R&R)
 
 <a href="files/papers/Cardoso_Wichman_Water_Affordability_US.pdf" class="btn btn--info" style="text-decoration:none">Working Paper</a>
 
