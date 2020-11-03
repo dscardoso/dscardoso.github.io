@@ -5,6 +5,8 @@ permalink: /research/water_affordability_US
 ---
 _Diego S. Cardoso and Casey J. Wichman_. (Preparing resubmission)
 
+<a href="files/papers/Cardoso_Wichman_Water_Affordability_US.pdf" class="btn btn--info" style="text-decoration:none">Working Paper</a>
+
 <center>
   <img src="/images/water_affordability.png" alt="Water Affordability in the US"  width="400"/>
 </center>
