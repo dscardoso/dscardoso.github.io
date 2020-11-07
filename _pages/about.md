@@ -18,7 +18,7 @@ Hello! I am a PhD candidate at Cornell University's Dyson School. My research in
 ## Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. _(Job Market Paper)_ ([read more](research/optimal_carbon_tax_in_oligopolies))
+:   _Diego S. Cardoso_. ([Job Market Paper](files/Cardoso_JMP.pdf)) ([read more](research/optimal_carbon_tax_in_oligopolies))
 
 Water Affordability in the United States
 :   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([read more](research/water_affordability_US))
