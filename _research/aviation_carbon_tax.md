@@ -3,9 +3,7 @@ title: "Optimal carbon taxation under oligopoly: An application to commercial av
 collection: research
 permalink: /research/optimal_carbon_tax_in_oligopolies
 ---
-_Diego S. Cardoso_. 
-
-<a href="https://www.diegoscardoso.com/files/Cardoso_JMP.pdf" class="btn btn--info" style="text-decoration:none">Job Market Paper</a>
+_Diego S. Cardoso_. <a href="https://www.diegoscardoso.com/files/Cardoso_JMP.pdf" class="btn btn--info" style="text-decoration:none">Job Market Paper</a>
 
 <center>
   <img src="/images/aviation_carbon_tax.png" width="400"/>
