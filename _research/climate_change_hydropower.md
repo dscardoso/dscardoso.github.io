@@ -1,7 +1,7 @@
 ---
 title: "Climate change impairs electricity generation and economic viability of future Amazon hydropower"
 collection: research
-permalink: /research/brazil_merger_policy
+permalink: /research/climate_change_hydropower
 ---
 _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_. (Under review)
 
