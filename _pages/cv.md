@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Version in PDF](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf)
+[PDF version](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf)
 
 
 ## Education
