@@ -14,7 +14,7 @@ redirect_from:
 
 Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental and Resource Economics and Industrial Organization. 
 
-I will join the Institute of Economics and Econometrics at the University of Geneva as a postdoctoral researcher in July, 2021. In Spring 2022, I will join the Department of Agricultural Economics at Purdue University as an Assistant Professor.
+I will join the Institute of Economics and Econometrics at the University of Geneva as a postdoctoral researcher during the Fall 2021 term. In Spring 2022, I will join the Department of Agricultural Economics at Purdue University as an Assistant Professor.
 
 
 ## Working Papers
