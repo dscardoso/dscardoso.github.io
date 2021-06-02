@@ -14,7 +14,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. Applied Economics and Management, Cornell University (expected 2021)
+* Ph.D. Applied Economics and Management, Cornell University (2021)
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
 * B.S. Computer Engineering (with distinction), University of Campinas , Brazil (2010)
 
@@ -46,6 +46,7 @@ redirect_from:
   * Energy, Environmental, and Resource Economics (Spring 2018)
 * Teaching Assistant
   * Cornell University, Dyson School
+    * Environmental and Resource Economics, with Ivan Rudik (Spring 2021)
     * Environmental and Resource Economics (Masters level), with Ivan Rudik (Fall 2020)
     * Behavioral Corporate Finance, with Vicky Bogan (Fall 2019)
   * Iowa State University, Department of Economics
@@ -68,7 +69,7 @@ redirect_from:
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
 ## Presentations and invited talks (including scheduled)
-* 2021: Eastern Economic Association Conference, Society for Benefit-Cost Analysis Conference
+* 2021: Northeast Workshop on Energy Policy and Environmental Economics; Association of Environmental and Resource Economists Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Norwegian School of Economics; Hamilton College; ZEW; Syracuse University; Purdue University; University of Geneva; University of Connecticut; Suffolk University; University of the Balearic Islands; Institute for Policy Integrity
 * 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru)
 * 2016: Federal University of São Carlos (Brazil)
 * 2013: Southeastern Economists Meeting (Brazil)
