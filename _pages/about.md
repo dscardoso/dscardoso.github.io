@@ -29,7 +29,7 @@ Value of a Statistical Life under Large Mortality Risk Change: Theory and an App
 :   _Diego S. Cardoso and Ricardo Dahis_. _(R&R)_ ([working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529)) ([read more](research/vsl_large_risk))
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_ _(Under review)_ ([read more](research/climate_change_hydropower))
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_ _(R&R)_ ([read more](research/climate_change_hydropower))
 
 ## Work in progress
 
