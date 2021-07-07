@@ -12,9 +12,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am a PhD candidate at Cornell University's Dyson School. My research interests are in Environmental and Resource Economics and Industrial Organization. 
+Hello! I am a postdoctoral researcher at the [University of Geneva's Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/). My research interests are in Environmental and Resource Economics and Industrial Organization. 
 
-I will join the Department of Agricultural Economics at Purdue University as an assistant professor after a postdoctoral fellowship at the University of Geneva's  Institute of Economics and Econometrics.
+I will join the Department of Agricultural Economics at Purdue University as an Assistant Professor in 2022.
 
 ## Working Papers
 
@@ -30,13 +30,6 @@ Value of a Statistical Life under Large Mortality Risk Change: Theory and an App
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
 :   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_ _(R&R)_ ([read more](research/climate_change_hydropower))
 
-## Work in progress
-
-Fuel cost pass-through in commercial aviation
-
-Climate policy under uncertain post-tipping warming
-
-
 ## Publications
 
 An econometric analysis of the Brazilian merger policy
@@ -47,3 +40,12 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 A Digital Notebook in school laptops: concept and tool development
 :   (In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([paper](http://dx.doi.org/10.5753/rbie.2009.17.02.59))([code](https://code.google.com/archive/p/cadernodigital))
+
+## Work in progress
+
+Fuel cost pass-through in commercial aviation
+
+Climate policy under uncertain post-tipping warming
+
+
+
