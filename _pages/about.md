@@ -40,10 +40,10 @@ Climate policy under uncertain post-tipping warming
 ## Publications
 
 An econometric analysis of the Brazilian merger policy
-:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. Forthcoming. [Review of Industrial Organization](https://doi.org/10.1007/s11151-021-09812-3)_
+:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. Forthcoming. Review of Industrial Organization._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
 
 An agent-based platform for the study of watersheds as coupled natural and human systems
-:   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
+:   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
 A Digital Notebook in school laptops: concept and tool development
-:   (In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([code](https://code.google.com/archive/p/cadernodigital))
+:   (In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([paper](http://dx.doi.org/10.5753/rbie.2009.17.02.59))([code](https://code.google.com/archive/p/cadernodigital))
