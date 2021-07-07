@@ -40,7 +40,7 @@ Climate policy under uncertain post-tipping warming
 ## Publications
 
 An econometric analysis of the Brazilian merger policy
-:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. Forthcoming. Review of Industrial Organization_ ([read more](research/brazil_merger_policy))
+:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. Forthcoming. [Review of Industrial Organization](https://doi.org/10.1007/s11151-021-09812-3)_
 
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
