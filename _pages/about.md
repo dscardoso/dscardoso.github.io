@@ -33,7 +33,7 @@ Reduced river discharge under climate change impairs electricity generation and 
 ## Publications
 
 An econometric analysis of the Brazilian merger policy
-:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. Forthcoming. Review of Industrial Organization._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
+:   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. 2021. Review of Industrial Organization. 59, 103–132._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
 
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
