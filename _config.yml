@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : "Diego S. Cardoso"
-description              : "Postdoctoral researcher, University of Geneva"
+name                     : &name "Diego S. Cardoso"
+description              : &description "Postdoctoral researcher, University of Geneva"
 url                      : "https://www.diegoscardoso.com" # "//dscardoso.github.io" # the base hostname & protocol for your site e.g. "http://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dscardoso/dscardoso.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Diego S. Cardoso"
   avatar           : "portrait.jpg"
   bio              : "Postdoc at the Institute of Economics and Econometrics, University of Geneva"
-  location         : "Genève, Switzerland"
+  location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zJ1QmFgAAAAJ&hl=en&authuser=2"
