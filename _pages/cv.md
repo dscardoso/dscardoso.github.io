@@ -57,6 +57,7 @@ redirect_from:
     * Introduction to Microeconomics (Spring 2012)
     
 ## Honors & Awards
+* George F. Warren Award - First place, Cornell University (2021)
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
 * Brown Graduate Fellowship, Iowa State University (2016)
 * Gamma Sigma Delta inducted, Iowa State University (2016)
