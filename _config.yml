@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : ""
+title                    : "Diego S. Cardoso"
+title_separator          : "|"
 name                     : &name "Diego S. Cardoso"
 description              : &description "Postdoctoral researcher, University of Geneva"
 url                      : "https://www.diegoscardoso.com" # "//dscardoso.github.io" # the base hostname & protocol for your site e.g. "http://mmistakes.github.io"
