@@ -1,5 +1,5 @@
 ---
-title: "Value of a Statistical Life under Large Mortality Risk Change: Theory and an Application to COVID-19"
+title: "A practical approach to estimate the benefits of non-marginal mortality risk reductions using the Value of a Statistical Life"
 collection: research
 permalink: /research/vsl_large_risk
 ---
