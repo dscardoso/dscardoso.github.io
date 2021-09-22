@@ -19,7 +19,7 @@ I will join the Department of Agricultural Economics at Purdue University as an 
 ## Publications
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi. Forthcoming. Global Climatic Change._ ([read more](research/climate_change_hydropower))
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi. Forthcoming. Global Environmental Change._ ([read more](research/climate_change_hydropower))
 
 
 An econometric analysis of the Brazilian merger policy
