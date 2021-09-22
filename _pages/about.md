@@ -16,22 +16,11 @@ Hello! I am a postdoctoral researcher at the [University of Geneva's Institute o
 
 I will join the Department of Agricultural Economics at Purdue University as an Assistant Professor in 2022.
 
-## Working Papers
-
-Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. ([Job Market Paper](files/Cardoso_JMP.pdf)) ([read more](research/optimal_carbon_tax_in_oligopolies))
-
-Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([read more](research/water_affordability_US))
+## Publications
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi_ _(R&R)_ ([read more](research/climate_change_hydropower))
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi. Forthcoming. Global Climatic Change. ([read more](research/climate_change_hydropower))
 
-A practical approach to estimate the benefits of non-marginal mortality risk reductions using the Value of a Statistical Life
-:   _Diego S. Cardoso and Ricardo Dahis_. _(Under review)_ ([read more](research/vsl_large_risk))
-
-
-## Publications
 
 An econometric analysis of the Brazilian merger policy
 :   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. 2021. Review of Industrial Organization. 59, 103–132._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
@@ -41,6 +30,19 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 A Digital Notebook in school laptops: concept and tool development
 :   (In Portuguese) _Diego S. Cardoso and Cecília Baranauskas. 2009. Brazilian Journal of Computers in Education. 7: 59-73._ ([paper](http://dx.doi.org/10.5753/rbie.2009.17.02.59))([code](https://code.google.com/archive/p/cadernodigital))
+
+## Working Papers
+
+Optimal carbon taxation under oligopoly: An application to commercial aviation
+:   _Diego S. Cardoso_. ([Job Market Paper](files/Cardoso_JMP.pdf)) ([read more](research/optimal_carbon_tax_in_oligopolies))
+
+Water Affordability in the United States
+:   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([read more](research/water_affordability_US))
+
+
+A practical approach to estimate the benefits of non-marginal mortality risk reductions using the Value of a Statistical Life
+:   _Diego S. Cardoso and Ricardo Dahis_. ([read more](research/vsl_large_risk))
+
 
 ## Work in progress
 
