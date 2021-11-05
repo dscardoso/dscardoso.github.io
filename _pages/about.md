@@ -19,7 +19,7 @@ I will join the Department of Agricultural Economics at Purdue University as an 
 ## Publications
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, ..., Alexander S. Flecker. Global Environmental Change. 71:102383_ ([paper](https://doi.org/10.1016/j.gloenvcha.2021.102383))
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, ..., Alexander S. Flecker. Global Environmental Change. 71:102383_. ([paper](https://doi.org/10.1016/j.gloenvcha.2021.102383))
 
 
 An econometric analysis of the Brazilian merger policy
@@ -49,6 +49,8 @@ A practical approach to estimate the benefits of non-marginal mortality risk red
 Fuel cost pass-through in commercial aviation
 
 Climate policy under uncertain post-tipping warming
+
+Oil \& gas lobbying and climate policy, with Julien Daubanes and Saraly Andrade de Sá
 
 
 
