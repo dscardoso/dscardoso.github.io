@@ -19,7 +19,7 @@ I will join the Department of Agricultural Economics at Purdue University as an 
 ## Publications
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
-:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, Alexander S. Flecker, Bruce Forsberg, Roosevelt García-Villacorta, Carla Gomes, Phillip M. Hannam, Stephen K. Hamilton, Rodrigo Paiva, N. LeRoy Poff, Suresh Sethi, and Qinru Shi. Forthcoming. Global Environmental Change._ ([read more](research/climate_change_hydropower))
+:   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, ..., Alexander S. Flecker. Global Environmental Change. 71:102383_ ([paper](https://doi.org/10.1016/j.gloenvcha.2021.102383))
 
 
 An econometric analysis of the Brazilian merger policy
@@ -34,14 +34,14 @@ A Digital Notebook in school laptops: concept and tool development
 ## Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. ([Job Market Paper](files/Cardoso_JMP.pdf)) ([read more](research/optimal_carbon_tax_in_oligopolies))
+:   _Diego S. Cardoso_. ([Job Market Paper](files/Cardoso_JMP.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
 Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([read more](research/water_affordability_US))
+:   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
 
 
 A practical approach to estimate the benefits of non-marginal mortality risk reductions using the Value of a Statistical Life
-:   _Diego S. Cardoso and Ricardo Dahis_. ([read more](research/vsl_large_risk))
+:   _Diego S. Cardoso and Ricardo Dahis_. ([abstract](research/vsl_large_risk))
 
 
 ## Work in progress
