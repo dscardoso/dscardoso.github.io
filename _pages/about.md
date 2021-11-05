@@ -50,7 +50,7 @@ Fuel cost pass-through in commercial aviation
 
 Climate policy under uncertain post-tipping warming
 
-Oil \& gas lobbying and climate policy, with Julien Daubanes and Saraly Andrade de Sá
+Oil & gas lobbying and climate policy, with Julien Daubanes and Saraly Andrade de Sá
 
 
 
