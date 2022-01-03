@@ -12,9 +12,8 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am a postdoctoral researcher at the [University of Geneva's Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/). My research interests are in Environmental and Resource Economics and Industrial Organization. 
+Hello! I am an assistant professor at [Purdue University's Department of Agricultural Economics](https://ag.purdue.edu/agecon). My research interests are in Environmental and Resource Economics and Industrial Organization. 
 
-I will join the Department of Agricultural Economics at Purdue University as an Assistant Professor in 2022.
 
 ## Publications
 
@@ -48,6 +47,8 @@ Fuel cost pass-through in commercial aviation
 Climate policy under uncertain post-tipping warming
 
 Oil & gas lobbying and climate policy, with Julien Daubanes and Saraly Andrade de Sá
+
+The value of avoidable mortality, with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao
 
 
 
