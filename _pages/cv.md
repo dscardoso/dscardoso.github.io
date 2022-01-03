@@ -12,6 +12,11 @@ redirect_from:
 [PDF version](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf)
 
 
+## Academic positions
+
+* Assistant professor, Department of Agricultural Economics, Purdue University (since Jan. 2022)
+* Postdoctoral researcher, Institute of Economics and Econometrics, University of Geneva (July--Dec. 2021)
+
 ## Education
 
 * Ph.D. Applied Economics and Management, Cornell University (2021)
@@ -70,7 +75,7 @@ redirect_from:
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
 ## Presentations and invited talks (including scheduled)
-* 2021: Northeast Workshop on Energy Policy and Environmental Economics; Association of Environmental and Resource Economists Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Norwegian School of Economics; Hamilton College; ZEW; Syracuse University; Purdue University; University of Geneva; University of Connecticut; Suffolk University; University of the Balearic Islands; Institute for Policy Integrity
+* 2021: Northeast Workshop on Energy Policy and Environmental Economics; Association of Environmental and Resource Economists Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru)
 * 2016: Federal University of São Carlos (Brazil)
 * 2013: Southeastern Economists Meeting (Brazil)
@@ -99,6 +104,6 @@ redirect_from:
 
 ## Additional Information
 
-* Professional associations: American Economic Association (AEA), European Economic Association (EEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
+* Professional associations: American Economic Association (AEA), Econometric Society, Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
 * Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
 * Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
