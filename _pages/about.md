@@ -30,7 +30,7 @@ An agent-based platform for the study of watersheds as coupled natural and human
 ## Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf) ([abstract](research/optimal_carbon_tax_in_oligopolies))
+:   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
 Water Affordability in the United States
 :   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
