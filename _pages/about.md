@@ -51,7 +51,7 @@ A practical approach to estimate the benefits of non-marginal mortality risk red
 Oil & gas lobbying and climate policy
 :   _with Julien Daubanes and Saraly Andrade de Sá_
 
-Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality
+Spatial heterogeneity in hedonic price effects for lake water quality
 :   _with Kristen Swedberg, Adriana Castillo Castillo, Diego S. Cardoso, Saleh Mamun, Jiarui Zhang, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_
 
 The economic value of avoidable mortality
