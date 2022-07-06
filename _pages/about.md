@@ -48,12 +48,16 @@ A practical approach to estimate the benefits of non-marginal mortality risk red
 
 **Climate policy under uncertain post-tipping warming**
 
-**Oil & gas lobbying and climate policy**, _with Julien Daubanes and Saraly Andrade de Sá_
+Oil & gas lobbying and climate policy
+:   _with Julien Daubanes and Saraly Andrade de Sá_
 
-**Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality**, _with Kristen Swedberg, Adriana Castillo Castillo, Diego S. Cardoso, Saleh Mamun, Jiarui Zhang, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_
+Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality
+:   _with Kristen Swedberg, Adriana Castillo Castillo, Diego S. Cardoso, Saleh Mamun, Jiarui Zhang, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_
 
-**The economic value of avoidable mortality**, _with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao_
+The economic value of avoidable mortality
+:   _with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao_
 
-**Monetizing the longevity losses associated with non-communicable disease mortality in low- and middle-income countries**, _with Stéphane Verguet, Sarah Bolongaita, Angela Chang, and Gretchen Stevens_
+Monetizing the longevity losses associated with non-communicable disease mortality in low- and middle-income countries
+:   _with Stéphane Verguet, Sarah Bolongaita, Angela Chang, and Gretchen Stevens_
 
 
