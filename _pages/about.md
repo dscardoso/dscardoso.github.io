@@ -35,6 +35,8 @@ Optimal carbon taxation under oligopoly: An application to commercial aviation
 Water Affordability in the United States
 :   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
 
+Valuing water quality in the US using a national data set on property values
+: _Saleh Mamun, Adriana Castillo Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_
 
 A practical approach to estimate the benefits of non-marginal mortality risk reductions using the Value of a Statistical Life
 :   _Diego S. Cardoso and Ricardo Dahis_. ([abstract](research/vsl_large_risk))
@@ -42,13 +44,16 @@ A practical approach to estimate the benefits of non-marginal mortality risk red
 
 ## Work in progress
 
-Fuel cost pass-through in commercial aviation
+**Fuel cost pass-through in commercial aviation**
 
-Climate policy under uncertain post-tipping warming
+**Climate policy under uncertain post-tipping warming**
 
-Oil & gas lobbying and climate policy, with Julien Daubanes and Saraly Andrade de Sá
+**Oil & gas lobbying and climate policy**, _with Julien Daubanes and Saraly Andrade de Sá_
 
-The value of avoidable mortality, with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao
+**Spatial Heterogeneity in Hedonic Price Effects for Lake Water Quality**, _with Kristen Swedberg, Adriana Castillo Castillo, Diego S. Cardoso, Saleh Mamun, Jiarui Zhang, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_
 
+**The economic value of avoidable mortality**, _with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao_
+
+**Monetizing the longevity losses associated with non-communicable disease mortality in low- and middle-income countries**, _with Stéphane Verguet, Sarah Bolongaita, Angela Chang, and Gretchen Stevens_
 
 
