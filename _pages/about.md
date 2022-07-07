@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am an assistant professor at [Purdue University's Department of Agricultural Economics](https://ag.purdue.edu/agecon). My research interests are in Environmental and Resource Economics and Industrial Organization. 
+Hello! I am an assistant professor at [Purdue University's Department of Agricultural Economics](https://ag.purdue.edu/agecon). My research interests are in Energy and Environmental Economics, Industrial Organization, and Global Health. 
 
 
 ## Publications
