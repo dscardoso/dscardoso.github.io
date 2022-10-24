@@ -3,6 +3,7 @@ title: "The economic value associated with non-communicable disease mortality: a
 collection: research
 permalink: /research/value_avoidable_mortality_cause_specific
 ---
+
 _Stéphane Verguet, Sarah Bolongaita, Angela Y. Chang, Diego S. Cardoso, Gretchen A. Stevens_
 
 **Abstract**

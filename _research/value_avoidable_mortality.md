@@ -3,6 +3,7 @@ title: "The Economic Burden of Disease – 2000, 2019, and 2040"
 collection: research
 permalink: /research/value_avoidable_mortality
 ---
+
 _Angela Y. Chang, Gretchen A. Stevens, Diego S. Cardoso, Bochen Cao,Dean T. Jamison_
 
 **Abstract**
