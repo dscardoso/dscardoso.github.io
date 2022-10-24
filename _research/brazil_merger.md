@@ -3,7 +3,7 @@ title: "An econometric analysis of the Brazilian merger policy"
 collection: research
 permalink: /research/brazil_merger_policy
 ---
-_Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. (Forthcoming, Review of Industrial Organization)
+_Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo_. 2021. Review of Industrial Organization. 59, 103–132._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
 
 <center>
   <img src="/images/cade.png" width="400"/>

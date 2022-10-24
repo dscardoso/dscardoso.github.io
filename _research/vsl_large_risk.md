@@ -3,7 +3,7 @@ title: "A practical approach to estimate the benefits of non-marginal mortality 
 collection: research
 permalink: /research/vsl_large_risk
 ---
-_Diego S. Cardoso and Ricardo Dahis_. (Under review)
+_Diego S. Cardoso and Ricardo Dahis_.
 
 <!-- First version: May 2020. Latest version: Aug 2020.  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3599529" class="btn btn--info" style="text-decoration:none">SSRN Working Paper</a> -->
 

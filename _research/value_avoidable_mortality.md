@@ -4,7 +4,7 @@ collection: research
 permalink: /research/value_avoidable_mortality
 ---
 
-_Angela Y. Chang, Gretchen A. Stevens, Diego S. Cardoso, Bochen Cao,Dean T. Jamison_
+_Angela Y. Chang, Gretchen A. Stevens, Diego S. Cardoso, Bochen Cao, and Dean T. Jamison_
 
 **Abstract**
 
