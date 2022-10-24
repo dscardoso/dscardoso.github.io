@@ -21,45 +21,18 @@ redirect_from:
 
 * Ph.D. Applied Economics and Management, Cornell University (2021)
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
-* B.S. Computer Engineering (with distinction), University of Campinas , Brazil (2010)
-
-## Fields of Interest
-
-* _Primary_: Environmental and Resource Economics
-* _Secondary_: Industrial Organization, Public Economics, Energy, Transportation
+* B.S. Computer Engineering, University of Campinas , Brazil (2010)
 
 ## Research
+
+**Fields of Interest**
+* _Primary_: Energy and Environmental Economics
+* _Secondary_: Industrial Organization, Public Economics, Global Health
+
 [Click here to see my research papers](/about).
 
-## Research Experience
-* Research Assistant
-  * Cornell University, Dyson School
-    * To Ivan Rudik (2018-2020)
-  * Iowa State University, Department of Economics
-    * At CARD, Center for Agricultural and Rural Development (2017-2018)
-    * To Ivan Rudik (2016-2017)
-    * At the Water & Climate Change Project (2016)
-* Research Intern
-  * Resources For the Future (Summer 2017)
-  * Embrapa, Brazilian Agricultural Research Corporation, Brazil (2009)
-  
-* Visiting Researcher
-  * University of Manitoba (Canada), Department of Agricultural Economics (Fall 2012 -- Winter 2013)
-
-## Teaching Experience
-* Instructor, Iowa State University
-  * Energy, Environmental, and Resource Economics (Spring 2018)
-* Teaching Assistant
-  * Cornell University, Dyson School
-    * Environmental and Resource Economics, with Ivan Rudik (Spring 2021)
-    * Environmental and Resource Economics (Masters level), with Ivan Rudik (Fall 2020)
-    * Behavioral Corporate Finance, with Vicky Bogan (Fall 2019)
-  * Iowa State University, Department of Economics
-    * Intermediate Microeconomics, with Peter Orazem (Spring 2017)
-    * Applied Economic Optimization, with Sunanda Roy (Fall 2015)
-    * Intro Microeconomics and Intro Macroeconomics, with Terry Alexander, Brent Kreider, and Otavio Bartalotti (2014-2015)
-  * Federal University of São Carlos, Department of Economics
-    * Introduction to Microeconomics (Spring 2012)
+## Teaching
+* Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022)
     
 ## Honors & Awards
 * George F. Warren Award - First place, Cornell University (2021)
@@ -70,16 +43,14 @@ redirect_from:
 * T. W. Schultz Graduate Fellowship, Iowa State University (2014-2015)
 * Emerging Leaders in the Americas Scholarship, Canadian Bureau for International Education (2012)
 * Master's Scholarship, Coordination for the Improvement of Higher Level Personnel, Brazil (2011-2012)
-* Honorable Mention, XVII Latin America Undergraduate Research Conference, Argentina (2009)
 * ESCALA Exchange Scholarship, visiting Universidad Nacional de Córdoba, Argentina (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
 ## Presentations and invited talks (including scheduled)
+* 2022: World Bank Healthy Longevity Initiative Workshop, Nordic Annual Environmental and Resource Economics, Federal University of São Carlos, Michigan State University (AFRE)
 * 2021: Northeast Workshop on Energy Policy and Environmental Economics; Association of Environmental and Resource Economists Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru)
-* 2016: Federal University of São Carlos (Brazil)
-* 2013: Southeastern Economists Meeting (Brazil)
-* 2009: South American Undergraduate Research Conference (Argentina); National Agro-Informatics Conference (Brazil)
+* 2016: Federal University of São Carlos
 
 ## Additional Training
 * Teaching training:
@@ -91,12 +62,7 @@ redirect_from:
 
 ## Service
 * Refereeing:  
-  * Water Resources and Economics
-  * Brazilian Society for Rural Economics, Management, and Sociology
-* Organizations (all at Iowa State University): 
-  * Graduate and Professional Student Senate (senator and member of the Grants and Awards Committee)
-  * Economics Graduate Student Association (president)
-  * Academic Writing Peer Review Group (organizer) 
+  * Water Resources and Economics; Water Economics and Policy, USDA NIFA, Brazilian Society for Rural Economics, Management, and Sociology
 
 ## Other Professional Experience
 * Data Scientist, Verisoft Group, Brazil (2013-2014)
@@ -104,6 +70,6 @@ redirect_from:
 
 ## Additional Information
 
-* Professional associations: American Economic Association (AEA), Econometric Society, Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
+* Professional associations: American Economic Association (AEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
 * Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
 * Programming: R, Julia, Matlab, Stata, Python, Java, C, SQL
