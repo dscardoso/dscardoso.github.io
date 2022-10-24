@@ -41,10 +41,10 @@ Valuing water quality in the US using a national data set on property values
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(Under review)_ ([abstract](research/water_quality_spatial_heterogeneity))
 
-The economic value of avoidable mortality
+The Economic Burden of Disease – 2000, 2019, and 2040
 :   _with Angela Chang, Dean Jamison, Gretchen Stevens, and Bochen Cao_ ([abstract](research/value_avoidable_mortality))
 
-Monetizing the longevity losses associated with non-communicable disease mortality in low- and middle-income countries
+The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
 :   _with Stéphane Verguet, Sarah Bolongaita, Angela Chang, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 
