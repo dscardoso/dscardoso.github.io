@@ -41,7 +41,7 @@ Valuing water quality in the US using a national data set on property values
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(Under review)_ ([abstract](research/water_quality_spatial_heterogeneity))
 
-The Economic Burden of Disease – 2000, 2019, and 2040
+The Economic Burden of Disease
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
