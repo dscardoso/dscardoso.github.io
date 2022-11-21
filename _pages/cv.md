@@ -32,7 +32,8 @@ redirect_from:
 [Click here to see my research papers](/about).
 
 ## Teaching
-* Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022)
+* Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022, Purdue)
+* Energy, Environmental, and Resource Economics (undergrad, Spring 2018, Iowa State University)
     
 ## Grants
 * USDA Co-op ($375,000)
