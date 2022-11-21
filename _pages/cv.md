@@ -36,7 +36,7 @@ redirect_from:
 * Energy, Environmental, and Resource Economics (undergrad, Spring 2018, Iowa State University)
     
 ## Grants
-* USDA Co-op ($375,000)
+* United States Department of Agriculture, Economic Research Service Co-op ($375,000)
 
 ## Honors & Awards
 * George F. Warren Award - First place, Cornell University (2021)
