@@ -34,15 +34,19 @@ redirect_from:
 ## Teaching
 * Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022)
     
+## Grants
+* USDA Co-op ($375,000)
+
 ## Honors & Awards
 * George F. Warren Award - First place, Cornell University (2021)
+* Lasserre-Renzetti Prize for best student paper, CREEA (2020)
 * Travel Grant for the Water Resources & Policy Workshop, AAEA (2017)
 * Brown Graduate Fellowship, Iowa State University (2016)
 * Gamma Sigma Delta inducted, Iowa State University (2016)
 * Teaching Excellence Award, Iowa State University (2015)
 * T. W. Schultz Graduate Fellowship, Iowa State University (2014-2015)
 * Emerging Leaders in the Americas Scholarship, Canadian Bureau for International Education (2012)
-* Master's Scholarship, Coordination for the Improvement of Higher Level Personnel, Brazil (2011-2012)
+* CAPES Master's Scholarship, Ministry of Education, Brazil (2011-2012)
 * ESCALA Exchange Scholarship, visiting Universidad Nacional de Córdoba, Argentina (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
@@ -52,6 +56,13 @@ redirect_from:
 * 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru)
 * 2016: Federal University of São Carlos
 
+## Service
+* Refereeing:  
+  * Applied Mathematical Modelling, Water Resources and Economics; Water Economics and Policy, 
+* Professional:
+  * USDA grant review panel
+  * Brazilian Society for Rural Economics, Management, and Sociology annual meetings
+
 ## Additional Training
 * Teaching training:
   * At Cornell University: International TA Program (26h, 2018)
@@ -59,10 +70,6 @@ redirect_from:
 * Graduate College Emerging Leaders Academy for leadership and diversity, Iowa State University (2016-2017)
 * Sustainable Climate Risk Management Summer School, Penn State University (2016)
 * ESTIMATE workshop, Michigan State University (2016)
-
-## Service
-* Refereeing:  
-  * Water Resources and Economics; Water Economics and Policy, USDA NIFA, Brazilian Society for Rural Economics, Management, and Sociology
 
 ## Other Professional Experience
 * Data Scientist, Verisoft Group, Brazil (2013-2014)
