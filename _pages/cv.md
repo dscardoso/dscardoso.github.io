@@ -33,7 +33,7 @@ redirect_from:
 
 ## Teaching
 * Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022, Purdue)
-* Energy, Environmental, and Resource Economics (undergrad, Spring 2018, Iowa State University)
+* Energy, Environmental, and Resource Economics (undergrad, Spring 2018, Iowa State)
     
 ## Grants
 * United States Department of Agriculture, Economic Research Service Co-op ($375,000)
