@@ -17,9 +17,11 @@ Hello! I am an assistant professor at [Purdue University's Department of Agricul
 
 ## Publications
 
+Water Affordability in the United States
+:   _Diego S. Cardoso and Casey J. Wichman. Forthcoming. Water Resources Research._ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
+
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
 :   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, ..., Alexander S. Flecker. 2021. Global Environmental Change. 71:102383_. ([paper](https://doi.org/10.1016/j.gloenvcha.2021.102383))
-
 
 An econometric analysis of the Brazilian merger policy
 :   _Diego S. Cardoso, Mariusa M. Pitelli, and Adelson M. Figueiredo. 2021. Review of Industrial Organization. 59, 103–132._ ([paper](https://doi.org/10.1007/s11151-021-09812-3))
@@ -27,13 +29,12 @@ An econometric analysis of the Brazilian merger policy
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
+
+
 ## Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
 :   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
-
-Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman_. _(R&R)_ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
 
 Valuing water quality in the US using a national data set on property values
 :   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_ _(R&R)_ ([abstract](research/national_water_quality))
