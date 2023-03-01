@@ -17,8 +17,11 @@ Hello! I am an assistant professor at [Purdue University's Department of Agricul
 
 ## Publications
 
+Valuing water quality in the US using a national data set on property values
+:   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. Proceedings of the National Academy of Sciences. Forthcoming._ ([abstract](research/national_water_quality))
+
 Water Affordability in the United States
-:   _Diego S. Cardoso and Casey J. Wichman. Forthcoming. Water Resources Research._ ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
+:   _Diego S. Cardoso and Casey J. Wichman. 2022. Water Resources Research. 58, e2022WR032206_ ([paper](https://doi.org/10.1029/2022WR032206)) ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
 :   _Rafael M. Almeida, Ayan S. Fleischmann, João P. F. Brêda, Diego S. Cardoso, Hector Angarita, Walter Collischonn, ..., Alexander S. Flecker. 2021. Global Environmental Change. 71:102383_. ([paper](https://doi.org/10.1016/j.gloenvcha.2021.102383))
@@ -35,9 +38,6 @@ An agent-based platform for the study of watersheds as coupled natural and human
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
 :   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
-
-Valuing water quality in the US using a national data set on property values
-:   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky_ _(R&R)_ ([abstract](research/national_water_quality))
 
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(Under review)_ ([abstract](research/water_quality_spatial_heterogeneity))
