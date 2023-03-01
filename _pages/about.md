@@ -20,7 +20,7 @@ Hello! I am an assistant professor at [Purdue University's Department of Agricul
 Valuing water quality in the US using a national data set on property values
 :   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. Proceedings of the National Academy of Sciences. Forthcoming._ ([abstract](research/national_water_quality))
 
-Water Affordability in the United States
+Water affordability in the United States
 :   _Diego S. Cardoso and Casey J. Wichman. 2022. Water Resources Research. 58, e2022WR032206_ ([paper](https://doi.org/10.1029/2022WR032206)) ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
 
 Reduced river discharge under climate change impairs electricity generation and the economic feasibility of future Amazon hydropower
@@ -42,7 +42,7 @@ Optimal carbon taxation under oligopoly: An application to commercial aviation
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(Under review)_ ([abstract](research/water_quality_spatial_heterogeneity))
 
-The Economic Burden of Disease
+The economic burden of disease
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
