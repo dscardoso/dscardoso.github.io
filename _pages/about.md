@@ -40,7 +40,7 @@ Optimal carbon taxation under oligopoly: An application to commercial aviation
 :   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
 Spatial heterogeneity in hedonic price effects for lake water quality
-:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(Under review)_ ([abstract](research/water_quality_spatial_heterogeneity))
+:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(R&R)_ ([abstract](research/water_quality_spatial_heterogeneity))
 
 The economic burden of disease
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
