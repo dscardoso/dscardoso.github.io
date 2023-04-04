@@ -64,7 +64,7 @@ A global agricultural supply-demand-climate-trade model calibrated to Baseline
 Welfare Analysis in the SIMPLE Model
 :   _with Tom Hertel_
 
-Fuel cost pass-through in commercial aviation
+**Fuel cost pass-through in commercial aviation**
 
 
 
