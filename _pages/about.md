@@ -62,7 +62,7 @@ A global agricultural supply-demand-climate-trade model calibrated to Baseline
 :   _with Maros Ivanic and Noé Nava_
 
 Welfare Analysis in the SIMPLE Model
-:   _with Tom Hertel_
+:   _with Thomas Hertel_
 
 **Fuel cost pass-through in commercial aviation**
 
