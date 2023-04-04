@@ -18,7 +18,7 @@ Hello! I am an assistant professor at [Purdue University's Department of Agricul
 ## Publications
 
 Valuing water quality in the US using a national data set on property values
-:   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. Proceedings of the National Academy of Sciences. Forthcoming._ ([abstract](research/national_water_quality))
+:   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. 2023. Proceedings of the National Academy of Sciences. 120 (15), e2210417120._ ([paper](https://www.pnas.org/doi/10.1073/pnas.2210417120))
 
 Water affordability in the United States
 :   _Diego S. Cardoso and Casey J. Wichman. 2022. Water Resources Research. 58, e2022WR032206_ ([paper](https://doi.org/10.1029/2022WR032206)) ([working paper](files/papers/Cardoso_Wichman_Water_Affordability_US.pdf)) ([abstract](research/water_affordability_US))
@@ -37,7 +37,7 @@ An agent-based platform for the study of watersheds as coupled natural and human
 ## Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. ([Job Market Paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
+:   _Diego S. Cardoso_. ([working paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky_ _(R&R)_ ([abstract](research/water_quality_spatial_heterogeneity))
@@ -55,7 +55,16 @@ The economic value associated with non-communicable disease mortality: a systema
 The sensitivity of oil companies' reserves to the oil price
 :   _with Saraly Andrade de Sá and Julien Daubanes_
 
-**Fuel cost pass-through in commercial aviation**
+The consequences of royalty relief programs in the oil industry
+:   _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
 
-**Climate policy under uncertain post-tipping warming**
+A global agricultural supply-demand-climate-trade model calibrated to Baseline
+:   _with Maros Ivanic and Noé Nava_
+
+Welfare Analysis in the SIMPLE Model
+:   _with Tom Hertel_
+
+Fuel cost pass-through in commercial aviation
+
+
 
