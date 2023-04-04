@@ -32,11 +32,12 @@ redirect_from:
 [Click here to see my research papers](/about).
 
 ## Teaching
-* Application of Quantitative Analysis: Mathematical Programming (PhD, Spring 2022, Purdue)
-* Energy, Environmental, and Resource Economics (undergrad, Spring 2018, Iowa State)
+* Application of Quantitative Analysis: Mathematical Programming (Purdue AGEC 652, PhD-level, 2022 & 2023)
+* Quantitative Techniques for Firm Decision Making (Purdue AGEC 352, undergraduate, 2023)
+* Energy, Environmental, and Resource Economics (Iowa State ECON 380, undergraduate, 2018)
     
 ## Grants
-* United States Department of Agriculture, Economic Research Service Co-op ($375,000)
+* United States Department of Agriculture, Economic Research Service ($375,000)
 
 ## Honors & Awards
 * George F. Warren Award - First place, Cornell University (2021)
@@ -52,8 +53,9 @@ redirect_from:
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
 ## Presentations and invited talks (including scheduled)
+* 2023: AERE Summer Conference
 * 2022: World Bank Healthy Longevity Initiative Workshop, Nordic Annual Environmental and Resource Economics, Federal University of São Carlos, Michigan State University (AFRE)
-* 2021: Northeast Workshop on Energy Policy and Environmental Economics; Association of Environmental and Resource Economists Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
+* 2021: Northeast Workshop on Energy Policy and Environmental Economics; AERE Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * 2020: CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; Universidad Ricardo Palma (Peru)
 * 2016: Federal University of São Carlos
 
