@@ -1,5 +1,5 @@
 ---
-title: "The Economic Burden of Disease"
+title: "The Economic Value of Avoidable Mortality"
 collection: research
 permalink: /research/value_avoidable_mortality
 ---
@@ -20,4 +20,4 @@ _Angela Y. Chang, Gretchen A. Stevens, Diego S. Cardoso, Bochen Cao, and Dean T.
 
 *Interpretation:* As governments worldwide engage in policy dialogues on how to invest in improving population health, our work provides supportive evidence on the high economic value placed on improving health, even when considering resource constraints.
 
-
+*Funding:* The World Bank.
