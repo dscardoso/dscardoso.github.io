@@ -78,10 +78,10 @@ redirect_from:
 * Sustainable Climate Risk Management Summer School, Penn State University (2016)
 * ESTIMATE workshop, Michigan State University (2016)
 
-## Early positions
-* Research and Teaching Assistant, Cornell University, Applied Economics (2018--2021)
-* Research Intern, Resources for the Future \hfill (Summer 2017)
-* Research and Teaching Assistant, Iowa State University, Economics (2014--2018)
+## Previous employment
+* Graduate Assistant, Dyson School, Cornell University (2018-2021)
+* Research Intern, Resources for the Future (Summer 2017)
+* Graduate Assistant, Dept. of Economics, Iowa State University (2014--2018)
 * Data Scientist, Verisoft Group, Brazil (2013-2014)
 * Software Engineer, Verid Consulting, Brazil (2010-2012)
 * Research Intern, Brazilian Agricultural Research Corporation (Embrapa) (2009)
