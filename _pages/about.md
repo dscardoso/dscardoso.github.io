@@ -55,7 +55,7 @@ The consequences of royalty relief programs in the oil industry
 :   _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
 
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
-:   _with Maros Ivanic and Noé Nava_
+:   _with Manuel Jimenez, Maros Ivanic, and Noé Nava_
 
 Welfare Analysis in the SIMPLE Model
 :   _with Thomas Hertel_
