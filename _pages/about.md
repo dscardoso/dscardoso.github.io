@@ -40,7 +40,7 @@ An agent-based platform for the study of watersheds as coupled natural and human
 Optimal carbon taxation under oligopoly: An application to commercial aviation
 :   _Diego S. Cardoso_. ([working paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
-The economic burden of disease
+The economic value of avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
