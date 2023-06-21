@@ -21,7 +21,7 @@ redirect_from:
 
 * Ph.D. Applied Economics and Management, Cornell University (2021)
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
-* B.S. Computer Engineering, University of Campinas , Brazil (2010)
+* B.S. Computer Engineering, University of Campinas, Brazil (2010)
 
 ## Research
 
@@ -33,11 +33,13 @@ redirect_from:
 
 ## Teaching
 * Application of Quantitative Analysis: Mathematical Programming (Purdue AGEC 652, PhD-level, 2022 & 2023)
+* Topics in Machine Learning for Applied Economics (Purdue AGEC 690, PhD-level, 2023)
 * Quantitative Techniques for Firm Decision Making (Purdue AGEC 352, undergraduate, 2023)
 * Energy, Environmental, and Resource Economics (Iowa State ECON 380, undergraduate, 2018)
     
 ## Grants
-* United States Department of Agriculture, Economic Research Service ($375,000)
+* A global agricultural supply-demand-climate-trade model calibrated to Baseline. USDA/ERS (PI, $450,199)
+* Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074 recommended for funding)
 
 ## Honors & Awards
 * George F. Warren Award - First place, Cornell University (2021)
@@ -61,16 +63,18 @@ redirect_from:
 
 ## Service
 * Refereeing:  
-  * Applied Mathematical Modelling, Water Resources and Economics; Water Economics and Policy, 
-* Professional:
-  * USDA grant review panel
-  * Brazilian Society for Rural Economics, Management, and Sociology annual meetings
+  * Peer-reviewed journals: Agricultural Economics; Applied Mathematical Modelling; Applied Economics Policy & Perspectives; Climatic Change; Journal of Economics, Race, and Policy; Water Economics and Policy; Water Resources and Economics; Water Resources Research
+  * Funding agencies: USDA grant review panel
+* Professional
+  * Editorial Board Member: Water Economics and Policy (since 2023)
+  * Abstract reviewer: US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
+  * Invited discussant: Canadian Resource and Environmental Economics Association Annual Conference
 
 ## Additional Training
 * Teaching training:
   * At Cornell University: International TA Program (26h, 2018)
   * At Iowa State University: CIRTL Associate Level Certificate (2018), Team-Based Learning (8h, 2018), Make It Stick (4h, 2017), Project LEA/RN (14h, 2016)
-* Graduate College Emerging Leaders Academy for leadership and diversity, Iowa State University (2016-2017)
+* Graduate College Emerging Leaders Academy, Iowa State University (2016-2017)
 * Sustainable Climate Risk Management Summer School, Penn State University (2016)
 * ESTIMATE workshop, Michigan State University (2016)
 
