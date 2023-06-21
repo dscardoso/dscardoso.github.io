@@ -13,17 +13,14 @@ redirect_from:
 
 
 ## Academic positions
-
 * Assistant professor, Department of Agricultural Economics, Purdue University (since Jan. 2022)
 * Postdoctoral researcher, Institute of Economics and Econometrics, University of Geneva (July--Dec. 2021)
 
-## Affiliations
-
+### Affiliations
 * Faculty Affiliate, Purdue University, Institute for a Sustainable Future (since Sept. 2022)
 * Editorial Board Member, Water Economics and Policy (Since Jan. 2023)
 
 ## Education
-
 * Ph.D. Applied Economics and Management, Cornell University (2021)
 * M.S. Economics, Federal University of São Carlos, Brazil (2013)
 * B.S. Computer Engineering, University of Campinas, Brazil (2010)
@@ -31,15 +28,15 @@ redirect_from:
 ## Research
 
 ### Publications and Working Papers
-* [Click here to see my papers](/about).
+* [Click here to see my papers](/about)
 
 ### Grants
 * A global agricultural supply-demand-climate-trade model calibrated to Baseline. USDA/ERS (PI, $450,199)
 * Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074 recommended for funding)
 
 ## Teaching
-* Application of Quantitative Analysis: Mathematical Programming (Purdue AGEC 652, PhD-level, 2022 & 2023)
-* Topics in Machine Learning for Applied Economics (Purdue AGEC 690, PhD-level, 2023)
+* Application of Quantitative Analysis: Mathematical Programming (Purdue AGEC 652, PhD, 2022 & 2023)
+* Topics in Machine Learning for Applied Economics (Purdue AGEC 690, PhD, 2023)
 * Quantitative Techniques for Firm Decision Making (Purdue AGEC 352, undergraduate, 2023)
 * Energy, Environmental, and Resource Economics (Iowa State ECON 380, undergraduate, 2018)
     
@@ -64,14 +61,13 @@ redirect_from:
 
 ## Service
 
-### Refereeing  
-* *Peer-reviewed journals:* _Agricultural Economics; Applied Mathematical Modelling; Applied Economics Policy & Perspectives; Climatic Change; Journal of Economics, Race, and Policy; Water Economics and Policy; Water Resources and Economics; Water Resources Research_
-* *Funding agencies:* USDA grant review panel
-
-### Professional
-* *Abstract reviewer:* US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
-* *Invited discussant:* CREEA Annual Conference
-* *Other:* Faculty mentor for the USDA/AAEA Local Food Economics Data Visualization Challenge
+* Refereeing  
+  * Peer-reviewed journals: _Agricultural Economics; Applied Mathematical Modelling; Applied Economics Policy & Perspectives; Climatic Change; Journal of Economics, Race, and Policy; Water Economics and Policy; Water Resources and Economics; Water Resources Research_
+  * Funding agencies: USDA grant review panel
+* Professional
+  * Abstract reviewer: US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
+  * Invited discussant: CREEA Annual Conference
+  * Other: Faculty mentor for the USDA/AAEA Local Food Economics Data Visualization Challenge
 
 ## Additional Training
 * Teaching training:
