@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am an assistant professor at [Purdue University's Department of Agricultural Economics](https://ag.purdue.edu/agecon). My research interests are in climate change, water, and global health. 
+Hello! I am an applied economist with research interests in climate change, water, and global health. I am an assistant professor at [Purdue University's Department of Agricultural Economics](https://ag.purdue.edu/agecon).
 
 
 ## Publications
