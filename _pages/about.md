@@ -45,6 +45,10 @@ The economic value of avoidable mortality
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
+Valuing non-marginal mortality risk reductions
+:   _Diego S. Cardoso and Ricardo Dahis_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
+
+
 ## Work in progress
 
 The sensitivity of oil companies' reserves to the oil price
@@ -59,7 +63,8 @@ A global agricultural supply-demand-climate-trade model calibrated to Baseline
 Welfare Analysis in the SIMPLE Model
 :   _with Thomas Hertel_
 
-**Fuel cost pass-through in commercial aviation**
+Fuel cost pass-through in commercial aviation
+:   _with Yongjoon Park_
 
 
 
