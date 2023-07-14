@@ -1,5 +1,5 @@
 ---
-title: "Valuing non-marginal mortality risk reductions"
+title: "Calculating the economic value of non-marginal mortality risk reductions"
 collection: research
 permalink: /research/non_marginal_vsl
 ---
