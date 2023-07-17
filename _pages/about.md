@@ -17,7 +17,7 @@ Hello! I am an applied economist with research interests in climate change, wate
 ## Publications
 
 Spatial heterogeneity in hedonic price effects for lake water quality
-:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky. (Forthcoming). Land Economics._ ([paper])(https://doi.org/10.3368/le.100.1.102122-0086R)([abstract](research/water_quality_spatial_heterogeneity))
+:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky. (Forthcoming). Land Economics._ ([paper](https://doi.org/10.3368/le.100.1.102122-0086R))([abstract](research/water_quality_spatial_heterogeneity))
 
 Valuing water quality in the US using a national data set on property values
 :   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. 2023. Proceedings of the National Academy of Sciences. 120 (15), e2210417120._ ([paper](https://www.pnas.org/doi/10.1073/pnas.2210417120)) ([abstract](research/national_water_quality))
