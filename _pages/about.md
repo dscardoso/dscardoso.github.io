@@ -14,10 +14,10 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in climate change, water, and global health.
 
-## Publications
+# Publications
 
 Spatial heterogeneity in hedonic price effects for lake water quality
-:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky. (Forthcoming). Land Economics._ ([paper](https://doi.org/10.3368/le.100.1.102122-0086R))([abstract](research/water_quality_spatial_heterogeneity))
+:   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky. (Forthcoming). Land Economics._ ([paper](https://doi.org/10.3368/le.100.1.102122-0086R)) ([abstract](research/water_quality_spatial_heterogeneity))
 
 Valuing water quality in the US using a national data set on property values
 :   _Saleh Mamun, Adriana Castillo-Castillo, Kristen Swedberg, Jiarui Zhang, Kevin J. Boyle, Diego S. Cardoso, Catherine L. Kling, Christoph Nolte, Michael Papenfus, Daniel Phaneuf, and Stephen Polasky. 2023. Proceedings of the National Academy of Sciences. 120 (15), e2210417120._ ([paper](https://www.pnas.org/doi/10.1073/pnas.2210417120)) ([abstract](research/national_water_quality))
@@ -34,7 +34,7 @@ An econometric analysis of the Brazilian merger policy
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
-## Working Papers
+# Working Papers
 
 Optimal carbon taxation under oligopoly: An application to commercial aviation
 :   _Diego S. Cardoso_. ([working paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
@@ -49,7 +49,7 @@ The economic value associated with non-communicable disease mortality: a systema
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 
-## Work in progress
+# Work in progress
 
 The sensitivity of oil companies' reserves to the oil price
 :   _with Saraly Andrade de Sá and Julien Daubanes_
