@@ -58,7 +58,7 @@ The consequences of royalty relief programs in the oil industry
 :   _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
 
 The Effects of a Targeted Price Ceiling On Crude Oil Exports in the Hotelling Model
-: _ with Stephen Salant and Julien Daubanes
+: _with Stephen Salant and Julien Daubanes_
 
 Fuel cost pass-through in commercial aviation
 :   _with Yongjoon Park_
