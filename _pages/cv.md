@@ -32,7 +32,7 @@ redirect_from:
 
 ### Grants
 * A global agricultural supply-demand-climate-trade model calibrated to Baseline. USDA/ERS (PI, $450,199)
-* Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074 recommended for funding)
+* Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074)
 
 ## Teaching
 * Application of Quantitative Analysis: Mathematical Programming (Purdue AGEC 652, PhD, 2022 & 2023)
@@ -52,8 +52,9 @@ redirect_from:
 * ESCALA Exchange Scholarship, visiting Universidad Nacional de Córdoba, Argentina (2008)
 * Scientific Initiation Scholarships, National Council for Scientific Development, Brazil (2006 & 2007)
 
-## Conference presentations and invited talks
-* *2023:* AERE Summer Conference
+## Conference presentations and invited talks (including scheduled)
+* *2024:* ASSA
+* *2023:* AERE Summer Conference, AERE@OSWEET, FAERE Annual Conference, Heartland Workshop, USAEE Annual Conference
 * *2022:* Nordic Annual Environmental and Resource Economics; World Bank Healthy Longevity Initiative Workshop; Michigan State University (AFRE); Federal University of São Carlos
 * *2021:* Northeast Workshop on Energy Policy and Environmental Economics; AERE Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * *2020:* CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; AGU Fall Meeting; Universidad Ricardo Palma
