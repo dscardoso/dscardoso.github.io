@@ -43,10 +43,10 @@ Calculating the economic value of non-marginal mortality risk reductions
 :   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
 
 The economic value of avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Under review)_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
-:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
+:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Under review)_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 
 # Work in progress
@@ -57,14 +57,18 @@ The sensitivity of oil companies' reserves to the oil price
 The consequences of royalty relief programs in the oil industry
 :   _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
 
+The Effects of a Targeted Price Ceiling On Crude Oil Exports in the Hotelling Model
+: _ with Stephen Salant and Julien Daubanes
+
+Fuel cost pass-through in commercial aviation
+:   _with Yongjoon Park_
+
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
 :   _with Manuel Jimenez, Maros Ivanic, and Noé Nava_
 
 Welfare Analysis in the SIMPLE Model
 :   _with Thomas Hertel_
 
-Fuel cost pass-through in commercial aviation
-:   _with Yongjoon Park_
 
 
 
