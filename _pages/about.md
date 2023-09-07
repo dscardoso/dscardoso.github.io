@@ -57,7 +57,7 @@ The sensitivity of oil companies' reserves to the oil price
 The consequences of royalty relief programs in the oil industry
 :   _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
 
-The Effects of a Targeted Price Ceiling On Crude Oil Exports in the Hotelling Model
+The effects of a targeted price ceiling on crude oil exports in the Hotelling model
 : _with Stephen Salant and Julien Daubanes_
 
 Fuel cost pass-through in commercial aviation
