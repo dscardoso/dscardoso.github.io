@@ -28,7 +28,7 @@ redirect_from:
 ## Research
 
 ### Publications and Working Papers
-* [Click here to see my papers](/about)
+* [Click here for for a complete list](/about)
 
 ### Grants
 * A global agricultural supply-demand-climate-trade model calibrated to Baseline. USDA/ERS (PI, $450,199)
