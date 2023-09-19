@@ -36,8 +36,8 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 # Working Papers
 
-Optimal carbon taxation under oligopoly: An application to commercial aviation
-:   _Diego S. Cardoso_. ([working paper](files/papers/Cardoso_carbon_tax_under_oligopoly.pdf)) ([abstract](research/optimal_carbon_tax_in_oligopolies))
+Second-best carbon taxation in a differentiated oligopoly
+:   _Diego S. Cardoso_. ([abstract](research/optimal_carbon_tax_in_oligopolies))
 
 Calculating the economic value of non-marginal mortality risk reductions
 :   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
