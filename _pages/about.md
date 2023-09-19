@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am an applied economist with research interests in climate change, water, and global health.
+Hello! I am an applied economist with research interests in climate change, energy, water, and global health.
 
 # Publications
 
