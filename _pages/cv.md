@@ -28,7 +28,7 @@ redirect_from:
 ## Research
 
 ### Publications and Working Papers
-* [Click here for for a complete list](/about)
+* [Click here for a complete list](/about)
 
 ### Grants
 * A global agricultural supply-demand-climate-trade model calibrated to Baseline. USDA/ERS (PI, $450,199)
@@ -58,7 +58,7 @@ redirect_from:
 * *2022:* Nordic Annual Environmental and Resource Economics; World Bank Healthy Longevity Initiative Workshop; Michigan State University (AFRE); Federal University of São Carlos
 * *2021:* Northeast Workshop on Energy Policy and Environmental Economics; AERE Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * *2020:* CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; AGU Fall Meeting; Universidad Ricardo Palma
-* *2016-2019:* Southern Economic Association Annual Meeting; Heartland Environmental and Resource Economics Workshop; *Federal University of São Carlos
+* *2016-2019:* Southern Economic Association Annual Meeting; Heartland Environmental and Resource Economics Workshop; Federal University of São Carlos
 
 ## Service
 
