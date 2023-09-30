@@ -50,7 +50,7 @@ redirect_from:
 
 ## Advising
 * *Thesis committee member, PhD:* Yuxi Chen (expected 2026), Yi Wang (expected 2026)
-* *Capstone Project Advisor, MS-MBA:* Justin Englebert (2023)
+* *Capstone project advisor, MS-MBA:* Justin Englebert (2023)
 
 ## Service
 * Refereeing  
