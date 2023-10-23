@@ -43,7 +43,7 @@ Calculating the economic value of non-marginal mortality risk reductions
 :   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
 
 The economic value of avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Under review)_ ([abstract](research/value_avoidable_mortality))
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
