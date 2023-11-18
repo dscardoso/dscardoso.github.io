@@ -14,6 +14,21 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in climate change, water, and global health.
 
+# Working Papers
+
+Second-best carbon taxation in a differentiated oligopoly
+:   _Diego S. Cardoso_  _(Under review)_ ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
+
+Calculating the economic value of non-marginal mortality risk reductions
+:   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
+
+The economic value of avoidable mortality
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
+
+The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
+:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
+
+
 # Publications
 
 Spatial heterogeneity in hedonic price effects for lake water quality
@@ -34,24 +49,10 @@ An econometric analysis of the Brazilian merger policy
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. 2017. Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
-# Working Papers
 
-Second-best carbon taxation in a differentiated oligopoly
-:   _Diego S. Cardoso_  _(Under review)_ ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
+# Selected work in progress
 
-Calculating the economic value of non-marginal mortality risk reductions
-:   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
-
-The economic value of avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ ([abstract](research/value_avoidable_mortality))
-
-The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
-:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ ([abstract](research/value_avoidable_mortality_cause_specific))
-
-
-# Work in progress
-
-The sensitivity of oil companies' reserves to the oil price
+Measuring the sensitivity of oil companies' reserves to the oil price
 :   _with Saraly Andrade de Sá and Julien Daubanes_
 
 The consequences of royalty relief programs in the oil industry
@@ -68,7 +69,3 @@ A global agricultural supply-demand-climate-trade model calibrated to Baseline
 
 Welfare Analysis in the SIMPLE Model
 :   _with Thomas Hertel_
-
-
-
-
