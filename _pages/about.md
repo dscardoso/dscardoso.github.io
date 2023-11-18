@@ -31,12 +31,23 @@ The economic value associated with non-communicable disease mortality: a systema
 
 # Selected work in progress
 
-- **Measuring the sensitivity of oil companies' reserves to the oil price**, _with Saraly Andrade de Sá and Julien Daubanes_
-- **The effects of a targeted price ceiling on crude oil exports in the Hotelling model**, _with Stephen Salant and Julien Daubanes_
-- **The consequences of royalty relief programs in the oil industry**, _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
-- **Fuel cost pass-through in commercial aviation**, _with Yongjoon Park_
-- **Welfare Analysis in the SIMPLE Model** _with Thomas Hertel_
-- **A global agricultural supply-demand-climate-trade model calibrated to Baseline**, _with Manuel Jimenez, Maros Ivanic, and Noé Nava_
+Measuring the sensitivity of oil companies' reserves to the oil price
+:  _with Saraly Andrade de Sá and Julien Daubanes_
+
+The effects of a targeted price ceiling on crude oil exports in the Hotelling model
+:  _with Stephen Salant and Julien Daubanes_
+
+The consequences of royalty relief programs in the oil industry
+:  _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
+
+Fuel cost pass-through in commercial aviation
+:  _with Yongjoon Park_
+
+Welfare Analysis in the SIMPLE Model
+:  _with Thomas Hertel_
+
+A global agricultural supply-demand-climate-trade model calibrated to Baseline
+:  _with Manuel Jimenez, Maros Ivanic, and Noé Nava_
 
 
 # Publications
