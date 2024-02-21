@@ -17,10 +17,10 @@ Hello! I am an applied economist with research interests in environmental, energ
 # Working Papers
 
 Second-best carbon taxation in a differentiated oligopoly
-:   _Diego S. Cardoso_  _(Under review)_ ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
+:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
 Calculating the economic value of non-marginal mortality risk reductions
-:   _Diego S. Cardoso and Ricardo Dahis_ _(Under review)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
+:   _Diego S. Cardoso and Ricardo Dahis_ _(Revise and resubmit)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
 
 The economic value of avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Revise and resubmit)_ ([abstract](research/value_avoidable_mortality))
@@ -47,7 +47,7 @@ Welfare Analysis in the SIMPLE Model
 :  _with Thomas Hertel_
 
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
-:  _with Manuel Jimenez, Maros Ivanic, and Noé Nava_
+:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, Maros Ivanic, and Noé Nava_
 
 
 # Publications
