@@ -57,7 +57,7 @@ redirect_from:
   * Peer-reviewed journals: _Agricultural Economics; Applied Mathematical Modelling; Applied Economics Policy & Perspectives; Climatic Change; Journal of Economics, Race, and Policy; Water Economics and Policy; Water Resources and Economics; Water Resources Research_
   * Funding agencies: USDA grant review panel
 * Professional
-  * Abstract reviewer: US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
+  * Abstract reviewer: AAEA, US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
   * Invited discussant: CREEA Annual Conference
   * Other: Faculty mentor for the USDA/AAEA Local Food Economics Data Visualization Challenge
 
@@ -88,5 +88,5 @@ redirect_from:
 * Research Intern, Brazilian Agricultural Research Corporation (Embrapa) (2009)
 
 ## Additional Information
-* Professional associations: American Economic Association (AEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE)
+* Professional associations: American Economic Association (AEA), Association of Environmental and Resource Economists (AERE), Latin American Association of Environmental and Resource Economists (LAERE), US Association for Energy Economics
 * Languages: Portuguese (native), English (fluent), Spanish (fluent), French (intermediate), Italian (basic)
