@@ -20,7 +20,7 @@ Second-best carbon taxation in a differentiated oligopoly
 :   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
 Calculating the economic value of non-marginal mortality risk reductions
-:   _Diego S. Cardoso and Ricardo Dahis_ _(Revise and resubmit)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
+:   _Diego S. Cardoso and Ricardo Dahis_ _(Revised and resubmitted)_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
 
 The economic value of avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Revise and resubmit)_ ([abstract](research/value_avoidable_mortality))
