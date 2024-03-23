@@ -25,28 +25,6 @@ The economic value of avoidable mortality
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Revise and resubmit)_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
-
-# Selected work in progress
-
-Measuring the sensitivity of oil companies' reserves to the oil price
-:  _with Saraly Andrade de Sá and Julien Daubanes_
-
-The effects of a targeted price ceiling on crude oil exports in the Hotelling model
-:  _with Stephen Salant and Julien Daubanes_
-
-The consequences of royalty relief programs in the oil industry
-:  _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
-
-Fuel cost pass-through in commercial aviation
-:  _with Yongjoon Park_
-
-Welfare Analysis in the SIMPLE Model
-:  _with Thomas Hertel_
-
-A global agricultural supply-demand-climate-trade model calibrated to Baseline
-:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, Maros Ivanic, and Noé Nava_
-
-
 # Publications
 
 Calculating the economic value of non-marginal mortality risk reductions
@@ -71,3 +49,23 @@ An agent-based platform for the study of watersheds as coupled natural and human
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. (2017). Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
 
+
+# Selected work in progress
+
+Measuring the sensitivity of oil companies' reserves to the oil price
+:  _with Saraly Andrade de Sá and Julien Daubanes_
+
+The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
+:  _with Stephen Salant and Julien Daubanes_
+
+The consequences of royalty relief programs in the oil industry
+:  _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
+
+Fuel cost pass-through in commercial aviation
+:  _with Yongjoon Park_
+
+Welfare Analysis in the SIMPLE Model
+:  _with Thomas Hertel_
+
+A global agricultural supply-demand-climate-trade model calibrated to Baseline
+:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, Maros Ivanic, and Noé Nava_
