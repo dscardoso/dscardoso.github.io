@@ -65,7 +65,7 @@ Fuel cost pass-through in commercial aviation
 :  _with Yongjoon Park_
 
 Welfare Analysis in the SIMPLE Model
-:  _with Thomas Hertel_
+:  _with Thomas Hertel and Srabashi Ray_
 
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
-:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, Maros Ivanic, and Noé Nava_
+:  _with Manuel Jimenez, Hao Xiong, and Ji Yong Kwon_
