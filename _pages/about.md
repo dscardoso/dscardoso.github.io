@@ -20,15 +20,15 @@ Second-best carbon taxation in a differentiated oligopoly
 :   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
 The economic value of avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Revise and resubmit)_ ([abstract](research/value_avoidable_mortality))
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality))
 
 The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
-:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Revise and resubmit)_ ([abstract](research/value_avoidable_mortality_cause_specific))
+:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 # Publications
 
 Calculating the economic value of non-marginal mortality risk reductions
-:   _Diego S. Cardoso and Ricardo Dahis. (Forthcoming) Economics Letters_ ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
+:   _Diego S. Cardoso and Ricardo Dahis. (2024). Economics Letters. 237, 111673._ ([paper](https://doi.org/10.1016/j.econlet.2024.111673)) ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
 
 Spatial heterogeneity in hedonic price effects for lake water quality
 :   _Kristen Swedberg, Diego S. Cardoso, Adriana Castillo-Castillo, Saleh Mamun, Kevin J. Boyle, Christoph Nolte, Michael Papenfus, and Stephen Polasky. (2024). Land Economics. 100(1), 89-108._ ([paper](https://doi.org/10.3368/le.100.1.102122-0086R)) ([abstract](research/water_quality_spatial_heterogeneity))
