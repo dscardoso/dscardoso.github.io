@@ -19,10 +19,10 @@ Hello! I am an applied economist with research interests in environmental, energ
 Second-best carbon taxation in a differentiated oligopoly
 :   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
-The economic value of avoidable mortality
+The economic value of reducing avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality))
 
-The economic value associated with non-communicable disease mortality: a systematic assessment by cause of death across world regions
+Quantifying the economic value of reducing non-communicable disease and injury avoidable mortality: regional estimates by death cause, 2000-2050
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 # Publications
