@@ -25,7 +25,7 @@ The economic value of reducing avoidable mortality
 
 # Publications
 
-Quantifying the economic value of reducing non-communicable disease and injury avoidable mortality: regional estimates by death cause, 2000-2050
+The economic value of reducing mortality due to non-communicable diseases and injuries
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 Calculating the economic value of non-marginal mortality risk reductions
