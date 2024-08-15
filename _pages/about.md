@@ -22,10 +22,11 @@ Second-best carbon taxation in a differentiated oligopoly
 The economic value of reducing avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality))
 
-Quantifying the economic value of reducing non-communicable disease and injury avoidable mortality: regional estimates by death cause, 2000-2050
-:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 # Publications
+
+Quantifying the economic value of reducing non-communicable disease and injury avoidable mortality: regional estimates by death cause, 2000-2050
+:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality_cause_specific))
 
 Calculating the economic value of non-marginal mortality risk reductions
 :   _Diego S. Cardoso and Ricardo Dahis. (2024). Economics Letters. 237, 111673._ ([paper](https://doi.org/10.1016/j.econlet.2024.111673)) ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
