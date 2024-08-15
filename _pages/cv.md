@@ -36,7 +36,7 @@ redirect_from:
 * Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074)
 
 ## Conference presentations and invited talks (including scheduled)
-* *2024:* ASSA, MEA
+* *2024:* AEA/ASSA Annual Meeting, MEA Annual Meeting, International Workshop in Energy and Resource Economics and Policy, Nordic Environmental and Resource Economics Workshop
 * *2023:* AERE Summer Conference, AERE@OSWEET, FAERE Annual Conference, Heartland Workshop, USAEE Annual Conference
 * *2022:* Nordic Annual Environmental and Resource Economics; World Bank Healthy Longevity Initiative Workshop; Michigan State University (AFRE); Federal University of São Carlos
 * *2021:* Northeast Workshop on Energy Policy and Environmental Economics; AERE Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
