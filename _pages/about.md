@@ -14,16 +14,10 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
 
-# Working Papers
-
-Second-best carbon taxation in a differentiated oligopoly
-:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
+# Publications
 
 The economic value of reducing avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Conditionally accepted at Nature Medicine)_ ([abstract](research/value_avoidable_mortality))
-
-
-# Publications
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality))
 
 The economic value of reducing mortality due to non-communicable diseases and injuries
 :   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality_cause_specific))
@@ -49,6 +43,10 @@ An econometric analysis of the Brazilian merger policy
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. (2017). Environmental Modelling & Software. 89: 40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
+# Working Papers
+
+Second-best carbon taxation in a differentiated oligopoly
+:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
 
 # Selected work in progress
