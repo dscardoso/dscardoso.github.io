@@ -17,10 +17,10 @@ Hello! I am an applied economist with research interests in environmental, energ
 # Publications
 
 The economic value of reducing avoidable mortality
-:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality))
+:   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(2024). Nature Medicine_ ([paper](https://www.nature.com/articles/s41591-024-03253-7)) ([abstract](research/value_avoidable_mortality))
 
 The economic value of reducing mortality due to non-communicable diseases and injuries
-:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(Forthcoming). Nature Medicine_ ([abstract](research/value_avoidable_mortality_cause_specific))
+:   _Stéphane Verguet, Sarah Bolongaita, Angela Chang, Diego S. Cardoso, and Gretchen Stevens_ _(2024). Nature Medicine_ ([paper](https://www.nature.com/articles/s41591-024-03248-4)) ([abstract](research/value_avoidable_mortality_cause_specific))
 
 Calculating the economic value of non-marginal mortality risk reductions
 :   _Diego S. Cardoso and Ricardo Dahis. (2024). Economics Letters. 237, 111673._ ([paper](https://doi.org/10.1016/j.econlet.2024.111673)) ([working paper](https://ssrn.com/abstract=4499312)) ([abstract](research/non_marginal_vsl))
