@@ -58,16 +58,16 @@ The dynamics of evasion: The price cap on Russian crude exports and the amassing
 :  _with Stephen Salant and Julien Daubanes_
 
 The consequences of royalty relief programs in the oil industry
-:  _with Julien Daubanes, Saraly Andrade de Sá, Erik Katovich, and Pritam Saha_
+:  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
 
 Fuel cost pass-through in commercial aviation
 :  _with Yongjoon Park_
 
-Welfare Analysis in the SIMPLE Model
+Welfare Analysis in SIMPLE
 :  _with Thomas Hertel and Srabashi Ray_
 
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
-:  _with Manuel Jimenez, Hao Xiong, and Ji Yong Kwon_
+:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, and Russell Hillberry_
 
 # Other Publications
 
