@@ -14,7 +14,7 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
 
-# Publications
+# Peer-Reviewed Publications
 
 The economic value of reducing avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(2024). Nature Medicine_ ([paper](https://www.nature.com/articles/s41591-024-03253-7)) ([abstract](research/value_avoidable_mortality))
@@ -68,3 +68,11 @@ Welfare Analysis in the SIMPLE Model
 
 A global agricultural supply-demand-climate-trade model calibrated to Baseline
 :  _with Manuel Jimenez, Hao Xiong, and Ji Yong Kwon_
+
+# Other Publications
+
+## Book chapters
+
+- Chang, A. Y., Stevens, G. A., Cardoso, D. S., Cao, B., & Jamison, D. T. (2024). The Economic Value of Avoidable Mortality. In _Unlocking the Power of Healthy Longevity: Compendium of Research for the Healthy Longevity Initiative_ (pp. 84-103). World Bank. ([Download](https://openknowledge.worldbank.org/entities/publication/d57d9893-511c-4026-945f-2228b721f6a5))
+- Verguet, S., Bolongaita, S., Chang, A. Y., Cardoso, D. S., & Stevens, G. A. (2024). The Economic Value Associated with Avoidable Mortality. In _Unlocking the Power of Healthy Longevity: Compendium of Research for the Healthy Longevity Initiative_ (pp. 104-122). World Bank. ([Download](https://openknowledge.worldbank.org/entities/publication/d57d9893-511c-4026-945f-2228b721f6a5))
+
