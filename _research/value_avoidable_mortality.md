@@ -1,5 +1,5 @@
 ---
-title: "The Economic Value of Avoidable Mortality"
+title: "The economic value of reducing avoidable mortality"
 collection: research
 permalink: /research/value_avoidable_mortality
 ---
