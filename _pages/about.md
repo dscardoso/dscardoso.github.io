@@ -48,14 +48,14 @@ An agent-based platform for the study of watersheds as coupled natural and human
 Second-best carbon taxation in a differentiated oligopoly
 :   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
 
-
-# Selected work in progress
-
 Measuring the sensitivity of oil companies' reserves to the oil price
-:  _with Saraly Andrade de Sá and Julien Daubanes_
+:   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_  (public version available will be soon)
 
 The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
-:  _with Stephen Salant and Julien Daubanes_
+:  _with Stephen Salant and Julien Daubanes_ (public version available will be soon)
+
+
+# Selected work in progress
 
 The consequences of royalty relief programs in the oil industry
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
