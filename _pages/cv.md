@@ -36,9 +36,9 @@ redirect_from:
 * Validating agrivoltaic technology with underserved agricultural producers. USDA/NRCS (Co-PI, $2,248,074)
 
 ## Conference presentations and invited talks (including scheduled)
-* *2024:* AEA/ASSA Annual Meeting, MEA Annual Meeting, International Workshop in Energy and Resource Economics and Policy, Nordic Environmental and Resource Economics Workshop
+* *2024:* AEA/ASSA Annual Meeting, MEA Annual Meeting, International Workshop in Energy and Resource Economics and Policy, Nordic Environmental and Resource Economics Workshop, Duke University, Indiana University
 * *2023:* AERE Summer Conference, AERE@OSWEET, FAERE Annual Conference, Heartland Workshop, USAEE Annual Conference
-* *2022:* Nordic Annual Environmental and Resource Economics; World Bank Healthy Longevity Initiative Workshop; Michigan State University (AFRE); Federal University of São Carlos
+* *2022:* Nordic Annual Environmental and Resource Economics; World Bank Healthy Longevity Initiative Workshop; Michigan State University; Federal University of São Carlos
 * *2021:* Northeast Workshop on Energy Policy and Environmental Economics; AERE Summer Conference; Eastern Economic Association Conference; Society for Benefit-Cost Analysis Conference; Federal University of Juiz de Fora, Norwegian School of Economics; Hamilton College; Institute for Policy Integrity; Purdue University; Suffolk University; Syracuse University; University of the Balearic Islands; University of Connecticut; University of Geneva; ZEW
 * *2020:* CREEA Annual Conference; Seminar in Water Economics Online (SWELL); Online Summer Workshop in Environment, Energy, and Transportation (OSWEET); CREEA Early Career Workshop; AGU Fall Meeting; Universidad Ricardo Palma
 * *2016-2019:* Southern Economic Association Annual Meeting; Heartland Environmental and Resource Economics Workshop; Federal University of São Carlos
@@ -58,12 +58,12 @@ redirect_from:
   * Peer-reviewed journals: _Agricultural Economics; American Journal of Agricultural Economics, Applied Mathematical Modelling; Applied Economics Policy \& Perspectives; Climatic Change; Energy Journal; Journal of the Association of Environmental and Resource Economics; Journal of Economics, Race, and Policy; Water Economics and Policy; Water Resources and Economics; Water Resources Research_
   * Funding agencies: USDA/NIFA grant review panel
 * Professional
-  * Abstract reviewer: AAEA, US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
+  * Abstract reviewer: AAEA, MEA, US Association for Energy Economics Conference; Journal of Purdue Undergraduate Research; Brazilian Society for Rural Economics, Management, and Sociology Conference
   * Invited discussant: CREEA Annual Conference
   * Other: Judging panel (2024) and faculty mentor (2023) for the USDA/AAEA Local Food Economics Data Visualization Challenge
 
 ## Honors & Awards
-* George F. Warren Award 1st Place, Cornell Dyson (2021)
+* George F. Warren Award, Cornell Dyson (2021)
 * Lasserre-Renzetti Prize for best student paper, CREEA (2020)
 * Brown Graduate Fellowship, Iowa State University (2016)
 * Gamma Sigma Delta inducted, Iowa State University (2016)
