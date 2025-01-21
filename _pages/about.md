@@ -14,6 +14,18 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
 
+# Working Papers
+
+Second-best carbon taxation in a differentiated oligopoly
+:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf))
+
+The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow))
+
+Measuring the sensitivity of oil companies' reserves to the oil price
+:   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ (public version will be available soon)
+
+
 # Peer-Reviewed Publications
 
 The economic value of reducing avoidable mortality
@@ -43,18 +55,6 @@ An econometric analysis of the Brazilian merger policy
 An agent-based platform for the study of watersheds as coupled natural and human systems
 :   _Leigh Tesfatsion, Chris R. Rehmann, Diego S. Cardoso, Yu Jie, and William J. Gutowski. (2017). Environmental Modelling & Software. 89:40-60._ ([paper](https://doi.org/10.1016/j.envsoft.2016.11.021)) ([pre-print](files/papers/WACCShedPlatform.Preprint.pdf)) ([code](https://bitbucket.org/waccproject/waccshedsoftwareplatform/overview))
  
-# Working Papers
-
-Second-best carbon taxation in a differentiated oligopoly
-:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf)) ([abstract](research/aviation_carbon_tax))
-
-Measuring the sensitivity of oil companies' reserves to the oil price
-:   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_  (public version will be available soon)
-
-The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
-:  _with Stephen Salant and Julien Daubanes_ (public version will be available soon)
-
-
 # Selected work in progress
 
 The consequences of royalty relief programs in the oil industry
@@ -62,6 +62,9 @@ The consequences of royalty relief programs in the oil industry
 
 Fuel cost pass-through in commercial aviation
 :  _with Yongjoon Park_
+
+The value and optimal deployment of augmented observations for hurricane forecasts
+: _with Renato Molina and Ivan Rudik_
 
 Welfare Analysis in SIMPLE
 :  _with Thomas Hertel and Srabashi Ray_
