@@ -14,6 +14,8 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
 
+[**CV**](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf)
+
 # Working Papers
 
 Second-best carbon taxation in a differentiated oligopoly
@@ -65,6 +67,8 @@ Fuel cost pass-through in commercial aviation
 
 The value and optimal deployment of augmented observations for hurricane forecasts
 : _with Renato Molina and Ivan Rudik_
+
+Climate policy under uncertain post-tipping warming
 
 Welfare Analysis in SIMPLE
 :  _with Thomas Hertel and Srabashi Ray_
