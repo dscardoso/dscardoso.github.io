@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf" target="_blank">[Open PDF]</a>
+<a href="https://www.diegoscardoso.com/files/DiegoCardoso_CV.pdf" target="_blank">[Download PDF]</a>
 
-<embed src="https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf" width="100%" height="850px" type="application/pdf">
+<embed src="https://www.diegoscardoso.com/files/DiegoCardoso_CV.pdf" width="100%" height="850px" type="application/pdf">

@@ -14,8 +14,6 @@ redirect_from:
 
 Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
 
-[**CV**](https://github.com/dscardoso/dscardoso.github.io/raw/master/files/DiegoCardoso_CV.pdf)
-
 # Working Papers
 
 Second-best carbon taxation in a differentiated oligopoly
