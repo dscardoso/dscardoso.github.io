@@ -17,10 +17,10 @@ Hello! I am an applied economist with research interests in environmental, energ
 # Working Papers
 
 Second-best carbon taxation in a differentiated oligopoly
-:   _Diego S. Cardoso_  ([working paper](files/papers/Cardoso_2023_Aviation_carbon_tax.pdf))
+:   _Diego S. Cardoso_ (Under review) ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
 The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow))
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ (Under review) ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow))
 
 Measuring the sensitivity of oil companies' reserves to the oil price
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ (public version will be available soon)
