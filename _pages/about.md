@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hello! I am an applied economist with research interests in environmental, energy, and resource economics.
+Hello! I am an applied economist with research interests in energy, environmental, and natural resource economics.
 
 # Working Papers
 
