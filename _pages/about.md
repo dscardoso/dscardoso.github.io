@@ -22,7 +22,7 @@ Second-best carbon taxation in a differentiated oligopoly
 The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
 :  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([policy brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
 
-Measuring the sensitivity of oil companies' reserves to the oil price
+Do markets price the sensitivity of economic oil reserves?
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ (public version will be available soon)
 
 
@@ -57,7 +57,7 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 # Selected work in progress
 
-The consequences of royalty relief programs in the oil industry
+Supply response to oil production taxes: Evidence from the US royalty relief program
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
 
 Fuel cost pass-through in commercial aviation
@@ -69,10 +69,10 @@ The value and optimal deployment of augmented observations for hurricane forecas
 Climate policy under uncertain post-tipping warming
 : 
 
-Welfare Analysis in SIMPLE
+Welfare analysis in SIMPLE
 :  _with Thomas Hertel and Srabashi Ray_
 
-A global agricultural production-consumption-trade model calibrated to Baseline
+A global agricultural model calibrated to Baseline Projections
 :  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, and Russell Hillberry_
 
 # Other Publications
