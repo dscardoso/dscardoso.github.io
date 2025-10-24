@@ -16,14 +16,14 @@ Hello! I am an applied economist with research interests in energy, environmenta
 
 # Working Papers
 
-Second-best carbon taxation in a differentiated oligopoly _(Under review)_
-:   _Diego S. Cardoso_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
+Second-best carbon taxation in a differentiated oligopoly 
+:   _Diego S. Cardoso_ _(Under review)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
-The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet _(Under review)_
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([policy brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
+The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Under review)_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
 
-The Design of Price Caps as Sanctions: Further Results in the Model of Turner and Sappington _(Under review)_
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_
+The Design of Price Caps as Sanctions: Further Results in the Model of Turner and Sappington 
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Under review)_
 
 Do markets price the sensitivity of economic oil reserves?
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ (public version will be available soon)
