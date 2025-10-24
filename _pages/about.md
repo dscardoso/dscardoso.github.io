@@ -16,15 +16,17 @@ Hello! I am an applied economist with research interests in energy, environmenta
 
 # Working Papers
 
-Second-best carbon taxation in a differentiated oligopoly
+Second-best carbon taxation in a differentiated oligopoly _(Under review)_
 :   _Diego S. Cardoso_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
-The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
+The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet _(Under review)_
 :  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([policy brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
+
+The Design of Price Caps as Sanctions: Further Results in the Model of Turner and Sappington _(Under review)_
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_
 
 Do markets price the sensitivity of economic oil reserves?
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ (public version will be available soon)
-
 
 # Peer-Reviewed Publications
 
@@ -57,6 +59,9 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 # Selected work in progress
 
+The Benefits of Punishment
+:  _with Stephen Salant and Julien Daubanes_
+
 Supply response to oil production taxes: Evidence from the US royalty relief program
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
 
@@ -70,10 +75,10 @@ Climate policy under uncertain post-tipping warming
 : 
 
 Welfare analysis in SIMPLE
-:  _with Thomas Hertel and Srabashi Ray_
+:  _with Thomas Hertel, Srabashi Ray, and Iman Haqiqi_
 
-A global agricultural model calibrated to Baseline Projections
-:  _with Manuel Jimenez, Hao Xiong, Ji Yong Kwon, and Russell Hillberry_
+A global trade model calibrated to the USDA Baseline Agricultural Projections
+:  _with Manuel Jimenez, Hao Xiong, and Russell Hillberry_
 
 # Other Publications
 
