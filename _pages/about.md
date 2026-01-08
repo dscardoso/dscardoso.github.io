@@ -16,17 +16,20 @@ Hello! I am an applied economist with research interests in energy, environmenta
 
 # Working Papers
 
-Second-best carbon taxation in a differentiated oligopoly 
-:   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
-
 The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
 :  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Conditionally accepted at the American Economic Journal: Economic Policy)_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
 
-The Design of Price Caps as Sanctions: Further Results in the Model of Turner and Sappington 
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_
+Second-best carbon taxation in a differentiated oligopoly 
+:   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
+
+Sanctioning an exporter wielding market power without excessively raising the price buyers pay
+:  _Stephen Salant, Diego S. Cardoso, and Julien Daubanes_
 
 Do markets price the sensitivity of economic oil reserves?
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ 
+
+A global trade model calibrated to the USDA Baseline Agricultural Projections
+:  _Manuel Jimenez, Diego Cardoso, Hao Xiong, and Russell Hillberry_
 
 # Peer-Reviewed Publications
 
@@ -59,26 +62,24 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 # Selected work in progress
 
-The Benefits of Punishment
+Government ceilings on the price charged by the domestic exporter as an instrument of strategic trade policy
 :  _with Stephen Salant and Julien Daubanes_
+
+Fuel cost pass-through in commercial aviation
+:  _with Yongjoon Park_
 
 Supply response to oil production taxes: Evidence from the US royalty relief program
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
 
-Fuel cost pass-through in commercial aviation
-:  _with Yongjoon Park_
+
+Welfare analysis in SIMPLE
+:  _with Thomas Hertel, Srabashi Ray, and Iman Haqiqi_
 
 The value and optimal deployment of augmented observations for hurricane forecasts
 : _with Renato Molina and Ivan Rudik_
 
 Climate policy under uncertain post-tipping warming
 : 
-
-Welfare analysis in SIMPLE
-:  _with Thomas Hertel, Srabashi Ray, and Iman Haqiqi_
-
-A global trade model calibrated to the USDA Baseline Agricultural Projections
-:  _with Manuel Jimenez, Hao Xiong, and Russell Hillberry_
 
 # Other Publications
 
