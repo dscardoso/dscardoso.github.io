@@ -17,7 +17,7 @@ Hello! I am an applied economist with research interests in energy, environmenta
 # Working Papers
 
 The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Conditionally accepted at the American Economic Journal: Economic Policy)_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Accepted at the American Economic Journal: Economic Policy)_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
 
 Second-best carbon taxation in a differentiated oligopoly 
 :   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
@@ -71,8 +71,7 @@ Fuel cost pass-through in commercial aviation
 Supply response to oil production taxes: Evidence from the US royalty relief program
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
 
-
-Welfare analysis in SIMPLE
+The benefits and costs of agricultural R&D as climate mitigation: an integrated welfare analysis
 :  _with Thomas Hertel, Srabashi Ray, and Iman Haqiqi_
 
 The value and optimal deployment of augmented observations for hurricane forecasts
