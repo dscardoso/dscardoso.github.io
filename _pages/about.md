@@ -16,9 +16,6 @@ Hello! I am an applied economist with research interests in energy, environmenta
 
 # Working Papers
 
-The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
-:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Accepted at the American Economic Journal: Economic Policy)_ ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
-
 Second-best carbon taxation in a differentiated oligopoly 
 :   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
@@ -32,6 +29,9 @@ A global trade model calibrated to the USDA Baseline Agricultural Projections
 :  _Manuel Jimenez, Diego Cardoso, Hao Xiong, and Russell Hillberry_
 
 # Peer-Reviewed Publications
+
+The dynamics of evasion: The price cap on Russian crude exports and the amassing of the shadow fleet
+:  _Diego S. Cardoso, Stephen Salant, and Julien Daubanes_ _(Forthcoming at the American Economic Journal: Economic Policy)_ ([paper](https://www.aeaweb.org/articles?id=10.1257/pol.20250007)) ([working paper](https://www.cesifo.org/en/publications/2025/working-paper/dynamics-evasion-price-cap-russian-oil-exports-and-amassing-shadow)) ([research brief](https://ceepr.mit.edu/workingpaper/the-dynamics-of-evasion-the-price-cap-on-russian-oil-exports-and-the-amassing-of-the-shadow-fleet/))
 
 The economic value of reducing avoidable mortality
 :   _Angela Chang, Gretchen Stevens, Diego S. Cardoso, Bochen Cao, and Dean Jamison_ _(2024). Nature Medicine. 30(11):3327–3334_ ([paper](https://www.nature.com/articles/s41591-024-03253-7)) ([abstract](research/value_avoidable_mortality))
