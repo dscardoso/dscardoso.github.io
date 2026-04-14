@@ -20,7 +20,7 @@ Second-best carbon taxation in a differentiated oligopoly
 :   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
 Sanctioning an exporter wielding market power without excessively raising the price buyers pay
-:  _Stephen Salant, Diego S. Cardoso, and Julien Daubanes_ ([working paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/sanctioning-exporter-wielding-market-power-without-excessively))
+:  _Stephen Salant, Diego S. Cardoso, and Julien Daubanes_ _(Under review)_ ([working paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/sanctioning-exporter-wielding-market-power-without-excessively))
 
 Do markets price the sensitivity of economic oil reserves?
 :   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ 
