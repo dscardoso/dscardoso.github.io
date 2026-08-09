@@ -28,7 +28,7 @@ Do markets price the sensitivity of economic oil reserves?
 A global trade model calibrated to the USDA Baseline Agricultural Projections
 :  _Manuel Jimenez, Diego S. Cardoso, Hao Xiong, and Russell Hillberry_
 
-Hurricane Hunters and Economic Value of Hurricane Forecasting Augmented Observations
+Hurricane hunters and economic value of hurricane forecasting augmented observations
 : _Diego S. Cardoso, Mark DeMaria, Brian McNoldy, Renato Molina, David Nolan, and Ivan Rudik_
 
 # Peer-Reviewed Publications
