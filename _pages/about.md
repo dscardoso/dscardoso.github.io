@@ -17,16 +17,19 @@ Hello! I am an applied economist with research interests in energy, environmenta
 # Working Papers
 
 Second-best carbon taxation in a differentiated oligopoly 
-:   _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
+:  _Diego S. Cardoso_ _(Revise and resubmit)_ ([working paper](files/papers/Cardoso_2025_Second_best_carbon_tax_oligopoly.pdf))
 
 Sanctioning an exporter wielding market power without excessively raising the price buyers pay
 :  _Stephen Salant, Diego S. Cardoso, and Julien Daubanes_ _(Under review)_ ([working paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/sanctioning-exporter-wielding-market-power-without-excessively))
 
 Do markets price the sensitivity of economic oil reserves?
-:   _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ 
+:  _Saraly Andrade de Sá, Diego S. Cardoso, and Julien Daubanes_ 
 
 A global trade model calibrated to the USDA Baseline Agricultural Projections
-:  _Manuel Jimenez, Diego Cardoso, Hao Xiong, and Russell Hillberry_
+:  _Manuel Jimenez, Diego S. Cardoso, Hao Xiong, and Russell Hillberry_
+
+Hurricane Hunters and Economic Value of Hurricane Forecasting Augmented Observations
+: _Diego S. Cardoso, Mark DeMaria, Brian McNoldy, Renato Molina, David Nolan, and Ivan Rudik_
 
 # Peer-Reviewed Publications
 
@@ -62,11 +65,14 @@ An agent-based platform for the study of watersheds as coupled natural and human
  
 # Selected work in progress
 
-Government ceilings on the price charged by the domestic exporter as an instrument of strategic trade policy
-:  _with Stephen Salant and Julien Daubanes_
+Climate Smart Sustainable Aviation Fuel Policies: Social Welfare and Environmental Impacts
+: _with Sohyeon Ryu and Madhu Khanna_
 
 Fuel cost pass-through in commercial aviation
 :  _with Yongjoon Park_
+
+Government ceilings on the price charged by the domestic exporter as an instrument of strategic trade policy
+:  _with Stephen Salant and Julien Daubanes_
 
 Supply response to oil production taxes: Evidence from the US royalty relief program
 :  _with Julien Daubanes, Erik Katovich, and Pritam Saha_
@@ -74,11 +80,8 @@ Supply response to oil production taxes: Evidence from the US royalty relief pro
 The benefits and costs of agricultural R&D as climate mitigation: an integrated welfare analysis
 :  _with Thomas Hertel, Srabashi Ray, and Iman Haqiqi_
 
-The value and optimal deployment of augmented observations for hurricane forecasts
-: _with Renato Molina and Ivan Rudik_
-
-Climate policy under uncertain post-tipping warming
-: 
+Biofuel Policies and Sustainable Global Trade
+: _with Nicole Rennó Castro and Fernando Salgueiro Perobelli_
 
 # Other Publications
 
